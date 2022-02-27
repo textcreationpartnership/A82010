@@ -1,0 +1,867 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A persuasive to full communion, with the churches of Christ in all Gospel-ordinances and priviledges Containing an essay for the conviction and reformation of such adult, or grown persons who live in the sinful neglect of baptism and the supper of the Lord. Together with an account of the manner of the transition of church-members from their infant to their adult-state, and regular admission to full communion. Written, for the help of such as need instruction in these spiritual concerns, 1 Cor. 12. 13. For by one spirit are we all baptized into one body, whether we be jews or gentiles, whether we be bond or free, and have been all made to drink into one spirit. By the late reverend Mr. George Day, minister of the gospel in London-street in Ratcliff / 1697.</title>
+            <author>Day, George, d. 1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 133 KB of XML-encoded text transcribed from 58 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82010</idno>
+            <idno type="STC">Wing D461</idno>
+            <idno type="STC">ESTC R232085</idno>
+            <idno type="EEBO-CITATION">99897816</idno>
+            <idno type="PROQUEST">99897816</idno>
+            <idno type="VID">133351</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82010)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133351)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2531:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A persuasive to full communion, with the churches of Christ in all Gospel-ordinances and priviledges Containing an essay for the conviction and reformation of such adult, or grown persons who live in the sinful neglect of baptism and the supper of the Lord. Together with an account of the manner of the transition of church-members from their infant to their adult-state, and regular admission to full communion. Written, for the help of such as need instruction in these spiritual concerns, 1 Cor. 12. 13. For by one spirit are we all baptized into one body, whether we be jews or gentiles, whether we be bond or free, and have been all made to drink into one spirit. By the late reverend Mr. George Day, minister of the gospel in London-street in Ratcliff / 1697.</title>
+                  <author>Day, George, d. 1697.</author>
+               </titleStmt>
+               <extent>[8], 101, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Parkhurst at the Bible and Three Crowns in Cheapside,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With one final advertisement leaf.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baptism --  Early works to 1800.</term>
+               <term>Last Supper --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133351:1"/>
+            <pb facs="tcp:133351:1" rendition="simple:additions"/>
+            <p>A PERSUASIVE TO FULL <hi>Communion,</hi> WITH THE Churches of Chriſt IN ALL GOSPEL-ORDINANCES AND PRIVILEDGES.</p>
+            <p>Containing An Eſſay for the Conviction and Reformation of ſuch Adult, or grown Perſons who live in the ſinful neglect of Baptiſm and the Supper of the Lord.</p>
+            <p>Together with An Account of the Manner of the Tranſition of Church-Members from their Infant to their A<g ref="char:EOLhyphen"/>dult-ſtate, and regular Admiſſion to full Com<g ref="char:EOLhyphen"/>munion.</p>
+            <p>Written, For the help of ſuch as need Inſtruction in theſe ſpiritual Concerns, 1 <hi>Cor.</hi> 12.13. <hi>For by one Spirit are we all Baptized into one Body, whether we be</hi> Jews <hi>or</hi> Gentiles, <hi>whether we be bond or free, and have been all made to drink into one Spirit.</hi>
+            </p>
+            <p>By the Late Reverend Mr. <hi>George Day,</hi> Miniſter of the Goſpel in <hi>London-ſtreet</hi> in <hi>Ratcliff,</hi> 1697.</p>
+            <p>
+               <hi>London:</hi> Printed for <hi>Tho. Parkhurſt</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> in <hi>Cheapſide,</hi> 1698.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:133351:2"/>
+            <pb facs="tcp:133351:2"/>
+            <head>The PREFACE.</head>
+            <p>THERE are ſome Circum<g ref="char:EOLhyphen"/>ſtances, that attend the Pub<g ref="char:EOLhyphen"/>lication of the Enſuing Trea<g ref="char:EOLhyphen"/>tiſe, which may render this ſhort Preface, not only Excuſable; but, al<g ref="char:EOLhyphen"/>ſo in ſome reſpects Neceſſary, That the Readers may be acquainted with two Things. <hi>1.</hi> Touching the Author, and the Coming forth, of this ſmall Piece. <hi>2.</hi> Touching the Subject-matter handled in it. <hi>1.</hi> As for the Author, the Late Reverend Mr. <hi>George Day,</hi> He was a well accompliſhed, and approved Mi<g ref="char:EOLhyphen"/>niſter of Jeſus Chriſt, very Exemplary in his Holy Converſation, and abun<g ref="char:EOLhyphen"/>dant in his Miniſterial Labours, in which his Study, Diligence, and Fide<g ref="char:EOLhyphen"/>lity were the more Conſpieuous, in re<g ref="char:EOLhyphen"/>gard of thoſe painful and weakening bo<g ref="char:EOLhyphen"/>dily Diſtempers, by which it pleaſed God, to Try, and Exerciſe him for many Years laſt paſt. As to the Publi<g ref="char:EOLhyphen"/>cation of this Diſcourſe, which is now ſent abroad into the World, it was Compoſed, and fitted for the Preſs, by
+<pb facs="tcp:133351:3"/>himſelf, That very Copy, which he de<g ref="char:EOLhyphen"/>livered to the Book-ſeller, was ſent by him to ſeveral Miniſters to be peruſed. Among others, we whoſe Names are ſubſcribed to this Preface, had it in our Hands about a Year ago, and upon a deliberate Inſpection into the Matter, Method, and Manner of handling his Subject; have thought, it might be of good <g ref="char:V">Ʋ</g>ſe and Benefit to many, if it were made Publick, and certified him of our Opinion touching it. After this, it lay in his hands as Dormant. But about the End of <hi>November</hi> laſt, this Good Man finding himſelf to decline very ſenſibly, delivered his Copy to that Book-ſeller, who had been ſo long In<g ref="char:EOLhyphen"/>ſtrumental, in divulging exceeding many Learned, Pious, Practical, Ex<g ref="char:EOLhyphen"/>cellent Books. It was not long after committed to the Preſs, but before one quarter of it was Printed, it pleaſed the Lord to remove the Author out of this World, and to receive him into his Celeſtial Reſt and Glory, to the great Grief; undoubtedly, to the great Loſs of
+<pb facs="tcp:133351:3"/>that Congregation, in which the Provi<g ref="char:EOLhyphen"/>dence of God had ſet him to Labour, in the Word and Doctrine of the Go<g ref="char:EOLhyphen"/>ſpel. <hi>2.</hi> Touching the little Book it ſelf. It hath ſeveral Properties, which may greatly recommend it to the peruſal of all, into whoſe hands the Providence of God ſhall bring it. For, it is very ſhort, and will not much Exerciſe the Patience of the Reader. It is very plain adapted to the Capacity of the Meaneſt <g ref="char:V">Ʋ</g>nderſtandings. The Diſcourſe is ma<g ref="char:EOLhyphen"/>naged in a very ſound, ſerious and pro<g ref="char:EOLhyphen"/>fitable Manner. The Arguments made uſe of are clear, ſtrong, and nervous, and enforced with all the advantages of Zeal and Charity. The Perſons concern<g ref="char:EOLhyphen"/>ed to attend unto this Perſuaſive, are exceeding numerous. The ſubſerviency of it toward the promoting of the Glo<g ref="char:EOLhyphen"/>ry of God, the Intereſt of Religion, and the welfare of Souls, is evident to eve<g ref="char:EOLhyphen"/>ry conſiderate, ſerious Perſon.</p>
+            <p>In this little Book, there is nothing that may diſcourage the Reader: No profound Speculations to amuſe him:
+<pb facs="tcp:133351:4"/>Nor doubtful Diſputations to perplex him: But a ſerious Perſuaſive to in<g ref="char:EOLhyphen"/>cline him, to comply with the Command of Chriſt, in the performance of two plain, weighty and neceſſary Duties. To which no Parties among Chriſtians are obliged, by their Principles, to make any Oppoſition.</p>
+            <p n="1">
+               <hi>1.</hi> He perſuades the Adult, who are unbaptized to fit themſelves for, and then to ſeek after Baptiſm. It is true indeed, that the Author (in the Intro<g ref="char:EOLhyphen"/>duction) tells us, that the People cal<g ref="char:EOLhyphen"/>led <hi>Quakers,</hi> do wholly reject both Bap<g ref="char:EOLhyphen"/>tiſm and the Lords Supper, as uſeleſs Ceremonies; and diſpute againſt them. But all they who acknowledge them to be Goſpel-Ordinances, muſt, according to their declared Principles, concur with our Author, to preſs all Adult, un<g ref="char:EOLhyphen"/>baptized Perſons to be Baptized. They who go under the Denomination of <hi>A<g ref="char:EOLhyphen"/>nabaptiſts,</hi> may poſſibly, except againſt the Baptizing of Infants which he aſ<g ref="char:EOLhyphen"/>ſerts. But they are as zealous as any o<g ref="char:EOLhyphen"/>ther, to perſuade the Adult, who were
+<pb facs="tcp:133351:4"/>not Baptized in their Infancy, to haſt<g ref="char:EOLhyphen"/>en to that Ordinance.</p>
+            <p n="2">
+               <hi>2.</hi> He perſuades Baptized grown Per<g ref="char:EOLhyphen"/>ſons to labour to be fit for, and then to communicate in the Lords Supper. This is acknowledged by all, to be their un<g ref="char:EOLhyphen"/>queſtionable Duty. So that in this Point, he can have no Adverſaries, whatever different Sentiments ſome may have a<g ref="char:EOLhyphen"/>bout the due Qualifications of thoſe who are to approach to the Lord's Table.</p>
+            <p>Having given this account of the Author and his little Book, we have anſwered the Deſign of this Preface. And ſhall only add our Prayers, that the Lord would afford his Bleſſing, that the Book may attain the End, which the Author propounded to himſelf in his Writing of it.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>William Bates,</hi>
+                     </item>
+                     <item>
+                        <hi>George Hamond.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>To be Corrected, <hi>Page</hi> 46. <hi>line</hi> 22. for <hi>Bercele<g ref="char:EOLhyphen"/>rius,</hi> read <hi>Bertelerius.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:133351:5"/>
+            <head>Books Printed for <hi>Tho. Parkhurſt</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> in <hi>Cheapſide.</hi>
+            </head>
+            <p>THere is Publiſht of Mr. <hi>George Days,</hi> The Communicants Inſtructor, or a Sacramental Catechiſm.</p>
+            <p>Mr. <hi>Days</hi> Funeral Sermon, Preached by the Reverend Mr. <hi>Sam. Slater;</hi> Prin<g ref="char:EOLhyphen"/>ted for <hi>John Lawrence</hi> at the <hi>Angel</hi> in the <hi>Poultrey.</hi>
+            </p>
+            <p>There is now Publiſhed Two ſcarce Books, The Fountain of Life Opened; or a Diſplay of Chriſt in his Eſſential and Mediatorial Glory: Containing Forty Two <hi>Sermons</hi> on various Texts. And alſo a Treatiſe of the Soul of Man. Both in 4to. By the late Reverend and Learn<g ref="char:EOLhyphen"/>ed Mr. <hi>J. Flavel,</hi> Miniſter of the Goſpel at <hi>Dartmouth.</hi>
+            </p>
+            <p>There is likewiſe newly Publiſhed, A <hi>Sermon</hi> Preached on the Late Day of Thankſgiving, <hi>Decemb.</hi> 2. 1697. By Mr. <hi>J. Howe,</hi> Miniſter of the Goſpel. To which is Prefix'd, Dr. <hi>Bates</hi> Congratula<g ref="char:EOLhyphen"/>tory Speech to the King, <hi>Novemb.</hi> 22. 1697. In the Name of the Diſſenting Mi<g ref="char:EOLhyphen"/>niſters in and about <hi>London.</hi>
+            </p>
+            <p>A Body of Practical Divinity in 176 Sermons, on the leſſer Catechiſm of the Aſſembly of Divines at <hi>Weſtminſter.</hi> By <hi>Tho. Watſon,</hi> formerly Miniſter at St. <hi>Stephens-Wallbrook, London.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="introduction">
+            <pb facs="tcp:133351:5"/>
+            <head>THE INTRODUCTION.</head>
+            <p>IT is a Truth, which no ſober Chri<g ref="char:EOLhyphen"/>ſtian will deny, that Omiſſions, or Neglects of commanded Duties are as truly breaches of the Law of God; as Commiſſions of Sins forbidden, and ſo as certainly deſtructive to the Souls of Men; and therefore all ſuch as would pleaſe God, and eſcape Deſtru<g ref="char:EOLhyphen"/>ction; ought as conſcientioſly to per<g ref="char:EOLhyphen"/>form Duties, as to forbear Iniquities, and to have Reſpect to all Gods Com<g ref="char:EOLhyphen"/>mandments, as well as to hate every falſe Way.</p>
+            <p>Now, amongſt the many Sins of O<g ref="char:EOLhyphen"/>miſſion, of which Perſons under the Chriſtian Name are guilty in this Age, and for which God hath a Controverſie with us at this Day: The neglect of thoſe Sacred Ordinances of Chriſt, Bap<g ref="char:EOLhyphen"/>tiſm, and the Lord's Supper is one, and not the leaſt, it being notoriouſly evi<g ref="char:EOLhyphen"/>dent,
+<pb n="2" facs="tcp:133351:6"/>that many of Twenty or Thirty Years Old, and ſome more, have never been Baptized, and theſe (with Thou<g ref="char:EOLhyphen"/>ſands more of Adult or grown Perſons) live alſo in the neglect of the Lord's Sup<g ref="char:EOLhyphen"/>per: The Cauſe of which neglect, in ſome is the Ignorance, and Error of their Parents, who (if they were <hi>Quaker's</hi>) wholly reject theſe Ordinances, as uſe<g ref="char:EOLhyphen"/>leſs Ceremonies, and Diſpute againſt them; or (if <hi>Anabaptiſt's</hi>) neglect to bring their Children to Baptiſm in their Infancy, and many of them being bred up in Ignorance, are careleſs of their own Souls concerns; and ſo Live, and Dye without the Participation of theſe Ordinances. <hi>Now</hi> though I dare not Judge ſuch as to their Eternal State, for to their own Maſter they ſtand or fall; I freely acknowledge, the Grace of God is not bound to external Ordinances, and God doth nothing by them, but what he can do without them, (if he pleaſe) yet I know we are bound to the Uſe of Ordinances, (when we may have them) by the expreſs Command of God, be<g ref="char:EOLhyphen"/>cauſe they are his Inſtitutions, by which he doth uſually work Grace in us; And to neglect known Duties, yea, or to live in Ignorance of Duties, under the
+<pb n="3" facs="tcp:133351:6"/>means of Knowledge, are Soul-damning Sins; which I earneſtly deſire all that are thus, guilty, ſeriouſly to conſider. Upon the Obſervation of theſe ſinful O<g ref="char:EOLhyphen"/>miſſions, I cannot but conclude it to be the unqueſtionable Duty of all the Miniſters of Chriſt that would be found faithful to him, and to the precious Souls of Men, not only to obſerve, mourn over, and reprove theſe Sins, but to do their ut<g ref="char:EOLhyphen"/>moſt alſo in their proper Stations, and Relations, for Reformation in this Parti<g ref="char:EOLhyphen"/>cular: The Senſe of this Duty, hath been ſo deeply impreſſed on my Spirit, as to put me upon this well-meant (though mean) endeavour, to contribute ſome<g ref="char:EOLhyphen"/>thing, toward this needful and deſirable Work.</p>
+            <p>I am too Conſcious of my own weak<g ref="char:EOLhyphen"/>neſs to dictate to my Reverend Brethren, acknowledging that I rather need, and therefore deſire their Light and Help herein; yet hope I may (without give<g ref="char:EOLhyphen"/>ing Juſt Cauſe of Offence to any) take leave to Confeſs, that many of us, have been very defective in our Duties here<g ref="char:EOLhyphen"/>in; and in this Confeſſion, I caſt the firſt Stone at my Self. The Good Lord Pardon us, that we have manifeſted no greater concern of Spirit for the Holy
+<pb n="4" facs="tcp:133351:7"/>Inſtitutions of our Lord-Redeemer, and help us, that while we Reprehend our People, for their ſinful Omiſſions, we may be duly humbled for our own; and make it more viſible in our Pra<g ref="char:EOLhyphen"/>ctice, that we teach our Selves, as well as Others.</p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:133351:7"/>
+            <head>A PERSUASIVE TO FULL <hi>Communion,</hi> OF Baptizing Adult, or Grown Perſons.</head>
+            <p>I Shall then firſt apply my Self, to ſuch Adult or grown Perſons, who, though they go under the Chriſtian Name, yet were never Baptized. If this Paper comes to the Hands of any ſuch, I would propoſe ſome Conſiderations, to convince you of your Sin, and (if the Lord ſhall bleſs them) bring you to Repentance;
+<pb n="6" facs="tcp:133351:8"/>and then give you ſome Councels, or Directions, for a right performance of your Duty.</p>
+            <p>In Order to your Conviction, be per<g ref="char:EOLhyphen"/>ſwaded ſeriouſly to conſider theſe ſeven Things.</p>
+            <p>
+               <hi>Firſt,</hi> Conſider, That Baptiſm, is as much an Ordinance of Chriſt, as Preach<g ref="char:EOLhyphen"/>ing the Goſpel is; and to continue in uſe in the Chriſtian Church, as long as that, (as appears by Chriſt's own Com<g ref="char:EOLhyphen"/>mand, <hi>Mat.</hi> 28.18, 19. <hi>(viz.)</hi> to the End of the World; and ſo it is as much the Duty of all profeſſed Chriſtians, to receive the Ordinance of Baptiſm) as to attend on the Ordinance of Preach<g ref="char:EOLhyphen"/>ing. For the ſame Authority that en<g ref="char:EOLhyphen"/>joyns the one, enjoyns the other, There<g ref="char:EOLhyphen"/>fore the neglect of it muſt be ſinful. And how dare you Live in any known Sin?</p>
+            <p>
+               <hi>Secondly,</hi> Conſider, That it is both the Duty of Chriſtian Parents, to bring their Children unto Chriſt, and the Right and Priviledge of ſuch Children, to be ſo brought, to receive his Bleſſing; <hi>Mark</hi> 10.13, 14, 15, 16. And this Seal of the Covenant of Grace, under which they are as well as their Parents, <hi>Gen.</hi> 17.7. And ſo muſt have a Goſpel-right to this Ordinance, as have been ſufficiently prov<g ref="char:EOLhyphen"/>ed,
+<pb n="7" facs="tcp:133351:8"/>by many Judicious Pens, (to which I muſt refer you for more Light in this Point, if you need it, becauſe of my in<g ref="char:EOLhyphen"/>tended Brevity.)</p>
+            <p>And if ſo, it muſt be the Sin of your Parents, that they brought you not to this Ordinance in your Infancy; and by Conſequence, your Sin and loſs to neg<g ref="char:EOLhyphen"/>lect it, ever ſince you came to Years of Diſcretion, and a Capacity to Covenant with God, and preſent your ſelves to Baptiſm.</p>
+            <p>
+               <hi>Thirdly,</hi> Conſider, That your Parents ſinful neglect of their Duty, is no juſt Plea, or Excuſe for your neglect of this Ordinance, ſince you came to Years of Underſtanding; for then it became your Duty, both to acquaint your ſelves with the Covenant of Grace, and give your own Underſtanding, and Hearty Conſent to it, and to teſtifie the ſame, by receiv<g ref="char:EOLhyphen"/>ing this Ordinance.</p>
+            <p>For <hi>Jews,</hi> or <hi>Heathens,</hi> (when inſtru<g ref="char:EOLhyphen"/>cted in the Chriſtian Religion) if they make a ſerious Profeſſion, of Faith in Chriſt, and Obedience to him, ought to be Baptized; much more may the Adult Children of Chriſtians, when they make the like Profeſſion, <hi>Acts</hi> 8.36, &amp;c.</p>
+            <p n="4">4. Conſider, That it looks as if you
+<pb n="8" facs="tcp:133351:9"/>were aſhamed to own Chriſt, and Chri<g ref="char:EOLhyphen"/>ſtianity; that you do not ſo much as wear the viſible Badge of his Diſciples, and Followers, <hi>i. e.</hi> Baptiſm. For by this Ordinance, Chriſtians are diſtin<g ref="char:EOLhyphen"/>guiſhed from all the reſt of Mankind, and whileſt you want this mark of Di<g ref="char:EOLhyphen"/>ſtinction, and yet profeſs Chriſtianity, you deſerve to be called <hi>Heathen</hi>-Chri<g ref="char:EOLhyphen"/>ſtians, or Chriſtian-<hi>Heathens,</hi> owning only the Name of Chriſts Followers, but ſeeming aſhamed of his Livery. And if you are indeed aſhamed to own Chriſt, or his Ordinances here before Men, he will be aſhamed to own you before his Father, and the Angels hereafter, <hi>Mat.</hi> 8.35. And how ſad will their Conditi<g ref="char:EOLhyphen"/>on be, whom Chriſt will not own in the great Day! Are you not loath to be found amongſt ſuch at laſt?</p>
+            <p>
+               <hi>Fifthly,</hi> Conſider, That though the neglect of Baptiſm, may ſeem a ſmall fault, (if any) to ignorant and inconſi<g ref="char:EOLhyphen"/>derate Perſons, yet it is indeed a great, and hainous Sin; being down-right diſ<g ref="char:EOLhyphen"/>obedience to the Command of Chriſt, and a virtual ſlighting and practical re<g ref="char:EOLhyphen"/>fuſing of the Covenant of Grace, of which this is the viſible Sign and Seal; therefore it muſt be very provoking in
+<pb n="9" facs="tcp:133351:9"/>the Eyes of God. We find God threat<g ref="char:EOLhyphen"/>ned that Parent, who did not Circumciſe his Son, to cut him off from his People; that is, either to exclude him from the Church of God, and all the Priviledges, Promiſes, and Bleſſings, belonging to it, or to cut him off, by an untimely and vi<g ref="char:EOLhyphen"/>olent Death, for ſo the Learned under<g ref="char:EOLhyphen"/>ſtand that Text, <hi>Gen.</hi> 17.14. Compa<g ref="char:EOLhyphen"/>red with <hi>Exod.</hi> 31.14. So that <hi>Moſes</hi> himſelf, was like to have been made an Example, for this Omiſſion. as <hi>Exod.</hi> 4.24.</p>
+            <p>Here its worthy our ſerious Obſerva<g ref="char:EOLhyphen"/>tion, leaſt any ſhould think the Puniſh<g ref="char:EOLhyphen"/>ment threatned, to be greater than the Sin deſerved; God was pleaſed to give the Reaſon of it, in the formentioned, <hi>Gen.</hi> 17.14. <hi>He hath broken my Cove<g ref="char:EOLhyphen"/>nant;</hi> God calls a Rejection and Con<g ref="char:EOLhyphen"/>tempt, of the Seal of the Covenant, a breach of the Covenant it ſelf.</p>
+            <p>Now if Baptiſm, come in the room of Circumciſion, (as Proteſtants generally conclude from <hi>Col.</hi> 2.11, 12.) And if God was ſo angry with his Servant <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> for neglecting to Circumciſe his Son, that he met him, and ſought to kill him: Judge you, whether thoſe Parents that neglect to Baptize their Children, have
+<pb n="10" facs="tcp:133351:10"/>not cauſe to fear that God is angry with them alſo, though he doth not preſent<g ref="char:EOLhyphen"/>ly manifeſt it in his Providence, nor can we ſuppoſe him, to be well-pleaſed with the Children of ſuch careleſs, or erronious Parents, who imitate them in Sin, when grown up, by Living in the neglect of this Ordinance.</p>
+            <p>
+               <hi>Sixthly,</hi> Conſider, That ſuch as ſlight and neglect the outward Baptiſm of Wa<g ref="char:EOLhyphen"/>ter, may juſtly fear, they were never yet Partakers of the inward Baptiſm of the Holy-Ghoſt, which is ſignified there<g ref="char:EOLhyphen"/>by, and that they are ſtill unſanctified, or unholy Souls; for where the Spirit of God comes with Power, he convinceth of Sin; <hi>John</hi> 16.8. and the neglect of any Ordinance of Chriſt, is one Sin of which the Spirit, will certainly Convince ſuch as are guilty, whenever he Works ſavingly on them, and if you have not had the Convincing-work of the Spirit upon you; ſurely you know no<g ref="char:EOLhyphen"/>thing of its Converting, Renewing, and Sanctifying-work; and if ſo, ſhould you Dye in this Condition; you have no Ground (that I know) to hope, for the Witneſſing and Comforting-work of the Spirit in Death, nor for Eternal Life after it; for none but Holy Souls,
+<pb n="11" facs="tcp:133351:10"/>have a Promiſe of theſe Bleſſings.</p>
+            <p>It's true, God can ſanctifie the Soul by his Spirit, though the Body be not waſhed with Water; therefore, I do not ſay, that none are ſanctified by the Spirit, that are not Baptized with Wa<g ref="char:EOLhyphen"/>ter for (doubtleſs) there are many In<g ref="char:EOLhyphen"/>ſtances of the contrary, as Elect Infants that Dye before Baptiſm, and others.</p>
+            <p>But this I do affirm, that ſeeing God hath been pleaſed to ſet up Ordinances in his Church, to be the Means of Grace, made it our Duty to uſe them, and doth uſually Work Grace in and by them; it is a Sin to neglect theſe Ordinances, where they may be had, and ſuch as do ſo, have Cauſe enough to fear they never yet received any ſaving Benefit by them: For that would make them to prize Or<g ref="char:EOLhyphen"/>dinances highly, and continue in the di<g ref="char:EOLhyphen"/>ligent uſe of them. Now conſider, Can you be Content, to Live without ſancti<g ref="char:EOLhyphen"/>fying Grace, and Dye without Comfort, and well-grounded Hope of Heaven at laſt?</p>
+            <p>
+               <hi>Seventhly,</hi> Conſider, That the ſinful neglect of one Ordinance, provokes God to withhold his Bleſſing from other Or<g ref="char:EOLhyphen"/>dinances, as a juſt and ſuitable Puniſh<g ref="char:EOLhyphen"/>ment of that Sin; and I fear, this is one
+<pb n="12" facs="tcp:133351:11"/>Reaſon, why ſo many unbaptized Per<g ref="char:EOLhyphen"/>ſons profit little by Reading and Hear<g ref="char:EOLhyphen"/>ing the Word. God ſometimes Threat<g ref="char:EOLhyphen"/>ens a People, that though they hear the Word, they ſhall not underſtand; and though they ſee, they ſhall not perceive, that their Hearts ſhall be made Fat, their Ears heavy, and their Eyes ſhut; leaſt they ſhould ſee with their Eyes, and hear with their Ears, and under<g ref="char:EOLhyphen"/>ſtand with their Hearts, and Convert and be Healed, as <hi>Iſa.</hi> 6.9, 10. Should God ſay thus concerning ſuch as you, how miſerable would your Condition be? You have Cauſe to fear it, for your Sin provokes him to it.</p>
+            <p>
+               <hi>Suppoſing</hi> now, that theſe Conſiderati<g ref="char:EOLhyphen"/>ons duly weighed, may be ſufficient to convince you of the ſinfulneſs, of your neglecting Baptiſm, (and they will be ſo, if the Holy Spirit of God ſets in with them, for which I Pray. (In the next Place, let me give you ſome plain Councels and Directions, for the perfor<g ref="char:EOLhyphen"/>mance of your Duty.</p>
+            <p>
+               <hi>Firſt,</hi> Be deeply humbled before the Lord, for your ſinful neglect of this Or<g ref="char:EOLhyphen"/>dinance hitherto; acknowledge it to God, with Shame and Sorrow of Heart; beg Pardon of it, in the Name of Chriſt,
+<pb n="13" facs="tcp:133351:11"/>and reſolve to uſe all good endeavour, duly to prepare for the Participation of it, and ſet preſently upon the Work, as remembring Time is ſhort, Life un<g ref="char:EOLhyphen"/>certain, and delays in Soul-matters moſt dangerous.</p>
+            <p>
+               <hi>Secondly,</hi> Get a Competent Knowledge of the Principal or Foundation-Truths, of the Chriſtian-Religion, which the <hi>Aſſemblies Catechiſms,</hi> both Shorter and Larger, well Read and Conſidered will help you to, (if you have not already attained it) eſpecially acquaint your ſelves well, with the Nature of the Co<g ref="char:EOLhyphen"/>venant of Grace, and the Goſpel-ſeals of it, Baptiſm, and the Lords-Supper, which the Sacramental Catechiſm opens to you.</p>
+            <p>
+               <hi>Thirdly,</hi> For your better Help in this great Concern, apply your ſelves to ſome able, and faithful Miniſter of Chriſt, (eſpecially to ſuch, under whoſe Miniſtry you do ordinarily ſit,) and open your Souls Caſe to him, propound your Doubts or Scruples, (if you have any) ask his ſpiritual Counſel, or Inſtruction and deſire his Prayers to God in your behalf.</p>
+            <p>
+               <hi>Fourthly,</hi> Beg earneſtly of God, that you may have compleat Baptiſm, or be
+<pb n="14" facs="tcp:133351:12"/>baptized not only outward with Water, but inwardly by the Holy Ghoſt, as <hi>John</hi> 3.5. And have not only the waſh<g ref="char:EOLhyphen"/>ing of Regeneration, but the Renewing of the Holy Ghoſt; as <hi>Tit.</hi> 3.5. Pray, that you may be meritoriouſly waſhed, from the guilt of Sin, by the Blood of Chriſt, and efficaciouſly waſhed from the filth and Power of Sin, by the Spirit of Chriſt, 1 <hi>John</hi> 1.7. <hi>Rev.</hi> 1.5. 1 <hi>Cor.</hi> 6.11.</p>
+            <p>
+               <hi>Fifthly,</hi> Give your Underſtanding, and hearty Conſent to the Covenant of Grace, and humbly, and thankfully ac<g ref="char:EOLhyphen"/>cept and chuſe JEHOVAH, the only Living and True God, to be your God; and give up your ſelves to him as his Covenant Servants, as <hi>Iſa.</hi> 44.5. and <hi>Iſa.</hi> 56.4, 5. When this is done, you may humbly Claim the Ordinance of Baptiſm, as your Right and Priviledge, being a Seal to confirm the Covenant, between God and your Souls.</p>
+            <p>Now, as for the Manner of Admini<g ref="char:EOLhyphen"/>ſtration, that is to be left to the Pru<g ref="char:EOLhyphen"/>dence of the Miniſters of Chriſt, who are to be the Diſpenſers of this, and all other Goſpel-Ordinances; I pretend not to preſcribe to any: But hope I ſhall offend none by giving an account of my
+<pb n="15" facs="tcp:133351:12"/>own Practice, which I ſubmit to the Cenſure, of more mature Judgments.</p>
+            <p>When by Conference with, and In<g ref="char:EOLhyphen"/>ſtruction of the Perſon ſeeking Baptiſm, I apprehend Him, or Her to have a Go<g ref="char:EOLhyphen"/>ſpel-right to, and fitneſs for it: At the Time of Adminiſtration, I firſt ſpeak ſomething touching the Nature, Uſe, and Ends of this Ordinance, and the Covenant of Grace, to which it doth be<g ref="char:EOLhyphen"/>long: And then ſeek the Lord by Pray<g ref="char:EOLhyphen"/>er, for his Bleſſing on it.</p>
+            <p>Then I propoſe theſe following Que<g ref="char:EOLhyphen"/>ſtions to the Adult Perſon that is to be Baptized, and receive his Anſwers.</p>
+            <p>Q. <hi>Were You never yet Baptized, as far as you do underſtand?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No.</p>
+            <p>Q. <hi>Are you willing, and deſirous to be Baptized?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, it is my earneſt, and hearty Deſire.</p>
+            <p>Q. <hi>Why do you deſire to be Baptized?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I deſire for theſe two Reaſons.</p>
+            <p>
+               <hi>Firſt,</hi> Becauſe by receiving this Ordi<g ref="char:EOLhyphen"/>nance, I would profeſs and teſtifie my Conſent to the Covenant of Grace, with God the Father, Son, and Holy Ghoſt, Baptiſm being one of the Signs, and Seals thereof.</p>
+            <pb n="16" facs="tcp:133351:13"/>
+            <p>
+               <hi>Secondly,</hi> Becauſe I would hereby be ingrafted, into the Myſtical Body, of Chriſt his Church, and be owned as a Member thereof, this being the Ordi<g ref="char:EOLhyphen"/>nance of Admiſſion.</p>
+            <p>Q. <hi>Seeing none have a Goſpel-right to Baptiſm, but profeſſed Believers, and their Seed, do you profeſs Faith, in the Lord Jeſus Chriſt, and Obedience to him, according to the Goſpel?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I do ſolemnly, and ſincerely pro<g ref="char:EOLhyphen"/>feſs the ſame.</p>
+            <p>Q. <hi>What be the Chief Articles of the Chriſtian Faith, which you profeſs to Be<g ref="char:EOLhyphen"/>lieve?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Thoſe which are contained in the <hi>Creed,</hi> commonly Called the Apoſtles <hi>Creed, <hi>I Believe in God the Father Almighty, Maker of Heaven and Earth,</hi>
+               </hi> &amp;c.</p>
+            <p>Q. <hi>Do you know what Eſtate you were Born in?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, I have Learned by the Word of God, that I, and all Mankind, are Born in a State of Sin, and Miſery.</p>
+            <p>Q. <hi>How came Mankind into this ſinful and miſerable Eſtate?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Mankind fell into this Eſtate, by the firſt Sin of our firſt Parents, <hi>Adam,</hi> and <hi>Eve,</hi> or by their Eating the forbid<g ref="char:EOLhyphen"/>den Fruit.</p>
+            <pb n="17" facs="tcp:133351:13"/>
+            <p>Q. <hi>Did all Mankind then fall in</hi> A<g ref="char:EOLhyphen"/>dam<hi>'s firſt Tranſgreſſion?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, The Covenant of Works be<g ref="char:EOLhyphen"/>ing made with <hi>Adam,</hi> not only for him<g ref="char:EOLhyphen"/>ſelf but for his Poſterity, all Mankind deſcending from him by ordinary Gene<g ref="char:EOLhyphen"/>ration, ſinned in him, and fell with him in his firſt Tranſgreſſion.</p>
+            <p>Q. <hi>What is the ſinfulneſs of that Eſtate whereinto Man fell?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The ſinfulneſs of that Eſtate where<g ref="char:EOLhyphen"/>into Man fell, conſiſts in the guilt of <hi>A<g ref="char:EOLhyphen"/>dam</hi>'s firſt Sin, the want of Original Righteouſneſs, and the Corruption of his whole Nature, (which is commonly called Original Sin) together with all actual Tranſgreſſions which proceed from <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t.</p>
+            <p>Q. <hi>What is the Miſery of that Eſtate whereinto Man fell?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> All Mankind by their Fall, loſt Communion with God; are under his Wrath, and Curſe, and ſo made liable to all Miſeries in this Life, to Death it ſelf, and to the Pains of Hell for ever.</p>
+            <p>Q. <hi>Did God leave all Mankind to pe<g ref="char:EOLhyphen"/>iſh in the Eſtate of Sin and Miſery?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, God having out of his meer <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood Pleaſure from all Eternity, elected <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome to Everlaſting Life, did enter into
+<pb n="18" facs="tcp:133351:14"/>a Covenant of Grace, to deliver them out of the State of Sin, and Miſery, and to bring them into a State of Salvation by a Redeemer.</p>
+            <p>Q. <hi>Who is the Redeemer of Gods Elect?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The only Redeemer of Gods E<g ref="char:EOLhyphen"/>lect is the Lord Jeſus Chriſt, who being the Eternal Son of God, became Man, and ſo was, and continueth to be God and Man, in two diſtinct Natures and one Perſon for ever.</p>
+            <p>Q. <hi>How may we be made Partakers of the Redemption purchaſed by Chriſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> We may be made Partakers of the Redemption purchaſed by Chriſt, by the Effectual Application of it to us by his Holy Spirit.</p>
+            <p>Q. <hi>How doth the Spirit apply to us the Redemption purchaſed by Christ?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Spirit applies to us the Re<g ref="char:EOLhyphen"/>demption purchaſed by Chriſt, by work<g ref="char:EOLhyphen"/>ing Faith in us, and thereby uniting us to Chriſt in our Effectual Calling.</p>
+            <p>Q. <hi>What is Effectual Calling?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Effectual Calling is the Work o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God's Spirit, whereby convincing us of our Sin and Miſery, inlightening our Minds in the Knowledge of Chriſt, and renewing our Wills, he doth perſwade and enable us to embrace Jeſus Chriſt as
+<pb n="19" facs="tcp:133351:14"/>he is freely offered to us in the Go<g ref="char:EOLhyphen"/>ſpel.</p>
+            <p>Q. <hi>What doth every Sin deſerve?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Every Sin deſerves God's Wrath and Curſe, both in this Life, and that which is to come.</p>
+            <p>Q. <hi>What doth God require of us to eſcape his Wrath and Curſe, due to us for Sin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To eſcape the Wrath and Curſe of God due to us for Sin, God requireth of us Faith in Jeſus Chriſt, Repentance unto Life, with a diligent uſe of all out<g ref="char:EOLhyphen"/>ward means, whereby Chriſt communi<g ref="char:EOLhyphen"/>cates to us the Benefits of Redemption.</p>
+            <p>Q. <hi>What is Faith in Jeſus Christ?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Faith in Jeſus Chriſt is a ſaving Grace, whereby we receive, and reſt up<g ref="char:EOLhyphen"/>on him alone for Salvation, as he is of<g ref="char:EOLhyphen"/>fered to us in the Goſpel.</p>
+            <p>Q. <hi>What is Repentance unto Life?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Repentance unto Life is a ſaving Grace, whereby a Sinner out of a true Senſe of his Sin, and Apprehenſion of the Mercy of God in Chriſt, doth, with grief and hatred of his Sin, turn from it unto God, with Purpoſe of, and endea<g ref="char:EOLhyphen"/>vours after new Obedience.</p>
+            <p>Q. <hi>What are the Outward, and Ordinary means whereby Chriſt communicateth to us the Benefits of Redemption?</hi>
+            </p>
+            <pb n="20" facs="tcp:133351:15"/>
+            <p>
+               <hi>A.</hi> The Outward, and Ordinary Means whereby Chriſt communicateth to us the Benefits of Redemption, are his Ordinances; eſpecially the Word, Sa<g ref="char:EOLhyphen"/>craments, and Prayers, all which are made Effectual to the Elect for Salvati<g ref="char:EOLhyphen"/>on.</p>
+            <p>Q. <hi>Which be the Sacraments of the New Teſtament?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Sacraments of the New Te<g ref="char:EOLhyphen"/>ſtament are Baptiſm, and the Lords Sup<g ref="char:EOLhyphen"/>per.</p>
+            <p>Q. <hi>What is Baptiſm?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Baptiſm is an Holy Ordinance, in<g ref="char:EOLhyphen"/>ſtituted by Chriſt, wherein the waſhing with Water, in the Name of the Father, Son, and Holy-Ghoſt, doth Signifie and Seal our ingrafting into Chriſt, our Par<g ref="char:EOLhyphen"/>taking of the Benefits of the New Cove<g ref="char:EOLhyphen"/>nant, and our Engagement to be the Lords.</p>
+            <p>Q. <hi>What is the New-Covenant, of which Baptiſm is a Sign and Seal?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The New-Covenant, or Covenant of Grace, is an Holy Contract, or A<g ref="char:EOLhyphen"/>greement between God, and his Elect in Chriſt; wherein, for the ſake of Chriſt, he promiſeth them Pardon and Life upon their Repenting of Sin, and believing in Chriſt the Saviour.</p>
+            <pb n="21" facs="tcp:133351:15"/>
+            <p>Q. <hi>Do you heartily Conſent to this Cove<g ref="char:EOLhyphen"/>nant of Grace with the Living and True God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I Hope through Grace I do, and therefore I do here (as in the Preſence of God, and before this Congregation) ſeriouſly profeſs to Repent of my Sins againſt God, to renounce the World, the Fleſh, and the Devil; and to take the only Living and True God, Father, Son, and Spirit, for my only God and chief Good, my Father, Redeemer, and Sanctifier; and do give up my whole Self, Soul, and Body to be Gods Cove<g ref="char:EOLhyphen"/>nant Servant for ever.</p>
+            <p>When theſe Queſtions are thus AN<g ref="char:EOLhyphen"/>ſwered, I apply my Self to the Anſwerer in theſe or the like Words.</p>
+            <p>Upon this credible Profeſſion of the Chriſtian Faith, which you have now made, and your ſolemn entering into Covenant with God; I as a Miniſter of Chriſt, do receive you in his Name, and ſhall adminiſter this Holy Ordinance of Baptiſm to you; Exhorting, and Com<g ref="char:EOLhyphen"/>manding you to hold faſt this Chriſtian Faith, and be faithful and ſtedfaſt in keeping Covenant with God, yielding him chearful Obedience all your Days; that the Bleſſings promiſed in the Cove<g ref="char:EOLhyphen"/>nant
+<pb n="22" facs="tcp:133351:16"/>may be your Portion in Time and Eternity.</p>
+            <p>Then I adminiſter the Ordinance, by Dipping the Face of the Perſon in the Water, and ſo cloſe the Action with Prayer, and the Bleſſing.</p>
+            <div type="part">
+               <head>Of the Tranſition, or paſſing of Church-Members from their Infant to their Adult<g ref="char:EOLhyphen"/>ſtate, and of their Admiſſion to the Lords-Supper, and full Communion with the Church.</head>
+               <p>As it is the comfortable Priviledge of Chriſtian Parents, to bring their Chil<g ref="char:EOLhyphen"/>dren unto Chriſt in their Infancy, and to ſee them owned as in the ſame Cove<g ref="char:EOLhyphen"/>nant with God, together with them<g ref="char:EOLhyphen"/>ſelves; by receiving Baptiſm, the Sign and Seal thereof; ſo it is their unqueſti<g ref="char:EOLhyphen"/>onable Duty to inſtruct them (as ſoon as they are capable to Learn) in the Knowledge of God, and of the Covenant ſolemnized in Baptiſm, the Nature, Uſe, and Ends of it, and the Seals thereof; and to acquaint them (when grown up to Years of Underſtanding, and compe<g ref="char:EOLhyphen"/>tently inſtructed in the Chriſtian Religi<g ref="char:EOLhyphen"/>on) that it is their Duty, and will be their Intereſt to give their own actual,
+<pb n="23" facs="tcp:133351:16"/>and hearty Conſent to their Baptiſmal-Covenant (ſeeing the Conſent of Parents in their behalf, will ſerve them no long<g ref="char:EOLhyphen"/>er then until they are capable to Conſent for themſelves) which if they refuſe or neglect to do, they forfeit the Benefits, and Bleſſings of the Covenant. And that they ought to deſire, and prepare for the Renewing of their Covenant with God, by receiving the Lords-Supper, that being the other confirming Seal thereof.</p>
+               <p>But alas! The Generality of Parents ſinfully, and ſhamefully neglect the Souls of their Children, (and their own Souls too) at this Day; breeding them up in groſs Ignorance of the very Foundation-Truths of Chriſtianity, by which means the moſt of our Youth, either regard not Religion at all, or only content them<g ref="char:EOLhyphen"/>ſelves to be now and then preſent in our Publick Religious Aſſemblies, (to which they are led more by Cuſtom, and Ex<g ref="char:EOLhyphen"/>ample, then by any Senſe of Religion, or Conſcience toward God) little mind<g ref="char:EOLhyphen"/>ing what is ſaid, or done there, becauſe indeed they underſtand little of it, and ſo are little the wiſer, or better for what they hear; Continue Strangers to the Life and Power of Godlineſs, lie open to
+<pb n="24" facs="tcp:133351:17"/>Temptations, and are eaſily carried a<g ref="char:EOLhyphen"/>way to Error, or Prophaneneſs.</p>
+               <p>The Lord convince ſuch Careleſs, and Cruel Parents of this crying Sin, give them Repentance, and quicken them to their neglected Duty toward the Souls of their Children, or elſe I fear the next Age will degenerate into down-right Heatheniſm, and Atheiſm.</p>
+               <p>If any of them ſhall caſt their Eyes on this Paper, I intreat them to ſpend one hour in the ſerious Conſideration of theſe few Particulars.</p>
+               <p>
+                  <hi>Firſt,</hi> Conſider the preciouſneſs of your Childrens Souls, they are Heaven-born, Immortal Spirits, capable to know, fear, love and ſerve the God that made them here, and to ſee and injoy him for ever hereafter: And ſo are more worthy of your Love, and care than their Bodies; yea, one Soul is of greater value than the whole World; and ſhould you not be much more concern'd for their preſent, and future Welfare and Happineſs? What? Will you ſuffer ſo precious a Thing as the Soul of a Child, to be loſt for ever, through your ſloth and care<g ref="char:EOLhyphen"/>leſneſs? when your Love to them will make you ready to hazzard your own Lives, to ſave their Bodies from a Threat<g ref="char:EOLhyphen"/>ning Danger?</p>
+               <pb n="25" facs="tcp:133351:17"/>
+               <p>
+                  <hi>Secondly,</hi> Conſider the need they have of Inſtruction, for they come into the World ſpiritually Blind, and Ignorant of God and Chriſt, yea of themſelves too; they know not their ſinful, miſerable, and dangerous State by Nature; the need they have of a Saviour, nor what they muſt do to be ſaved: The future Happineſs of Saints in Heaven, nor the dreadful Puniſhment of Sinners in Hell; and that which yet makes their Condition the more deplorable, is, that uſually they deſire not the Knowledge of theſe Things, but are rather unwilling to be Inſtructed, and Love Darkneſs rather than Light.</p>
+               <p>Now one would think, you that have the Bowels of Parents, ſhould Pity the Blind, Compaſſionate your Ignorant Children, and do what you can for their Cure; though you were under no other Law, but that of Nature to do it.</p>
+               <p>
+                  <hi>Thirdly,</hi> Conſider, God hath made it your indiſpenſible Duty by his Poſitive, and expreſs Command to Teach your Children, his Revealed Mind and Will, with the greateſt Care, Conſtancy, and Diligence. Read, and weigh thoſe Scrip<g ref="char:EOLhyphen"/>tures, <hi>Deut.</hi> 6.6, 7. <hi>Prov.</hi> 22.6. <hi>Eph.</hi> 6.4. So that it is no Arbitrary Thing, nor
+<pb n="26" facs="tcp:133351:18"/>left to your Pleaſure to do it or not; your neglect of it is a direct Diſobedience to the Law of God, and how will you be able to Anſwer it to God in the Day of your Account?</p>
+               <p>
+                  <hi>Fourthly,</hi> Conſider, God hath intruſt<g ref="char:EOLhyphen"/>ed you with Authority over your Chil<g ref="char:EOLhyphen"/>dren, to Command them to Learn the Knowledge of God, and of his Will, and to obey it; and hath commanded your Chil<g ref="char:EOLhyphen"/>dren to Honour and Obey you herein, and expects you ſhould uſe your Autho<g ref="char:EOLhyphen"/>rity over them; eſpecially to this End, and Godly Parents have ſo done, and are commended in Scripture for it. Read and Conſider, <hi>Eph.</hi> 6.1, 2, 3. 1 <hi>Chron.</hi> 28.9. <hi>Gen.</hi> 18.19.</p>
+               <p>You Uſe this Power over them for your ſelves, in requiring them to Obey your Wills; and will you not alſo uſe it for your God, who gave it, and for the good of your dear Childrens Souls?</p>
+               <p>
+                  <hi>Fifthly,</hi> Conſider, if your Children Live and Dye in Ignorance of Soul-ſa<g ref="char:EOLhyphen"/>ving Truths, they will periſh for ever; and if they do ſo through your default, or neglect of Inſtructing them, their Sin will hereby become yours; and God will require their Blood at your Hands. See <hi>Iſa.</hi> 26.11. 2 <hi>Theſ.</hi> 1.7, 8, 9.</p>
+               <pb n="27" facs="tcp:133351:18"/>
+               <p>Now, do you not cry out of thoſe, as Monſters in Nature, Wolves, and Tygers in humane Shape; yea worſe than Beaſts, who Murder their own Children, and imbrue their Hands in their own tender Infants Blood? How much greater Monſters are thoſe Parents, who ſtarve the Souls of their Children, by with-holding ſpiritual Food from them, and ſo help them forward to<g ref="char:EOLhyphen"/>ward Eternal Deſtruction: And are you willing to be found in the number of ſuch bloody Parents at the laſt Day, and to have your Portion with them for ever?</p>
+               <p>If theſe Conſiderations have convin<g ref="char:EOLhyphen"/>ced you, how ſinful your neglects of inſtructing your Children and Families have been, and impreſſed your Souls with ſuch a Senſe of your Duty, that you reſolve upon it in the Strength of Chriſt for the Time to come? This will prepare you to accept of, and hearken to a Word of Counſel, which I will of<g ref="char:EOLhyphen"/>fer you alſo in a few Particulars.</p>
+               <p>
+                  <hi>Firſt,</hi> See that you are well acquainted with the Knowledge of God and Chriſt, his Will and Worſhip, your ſelves, that you may be capable of Teaching your Children; Remember God requires Pa<g ref="char:EOLhyphen"/>rents
+<pb n="28" facs="tcp:133351:19"/>firſt to get his Word into their own Hearts, and then to <hi>Teach them di<g ref="char:EOLhyphen"/>ligently to their Children,</hi> Deut. 6.6. 'Tis impoſſible for you to inſtruct others in that, which you have not learnt your ſelves.</p>
+               <p>It's very ſad to obſerve, that many Parents are but Children in Underſtan<g ref="char:EOLhyphen"/>ding, and that when for the Time they have lived under the Means of Know<g ref="char:EOLhyphen"/>ledge, they might have been ſuch good Proficients, or Schollars in the School of Chriſt, as to be able to Teach their Fa<g ref="char:EOLhyphen"/>milies, they themſelves need to be taught the firſt Principles of the Oracles of God, as <hi>Heb.</hi> 5.12.</p>
+               <p>I am perſwaded this is the Grand (though not the only) Reaſon, why Family-duties are ſo generally diſuſed at this Day, 'tis not ſo much out of a diſ<g ref="char:EOLhyphen"/>like of, or a Malignity againſt the work it ſelf in many; as for want of Ability to perform it, and this Impediment can be no ways removed, but by the Bleſſing of God on a diligent uſe of due Means for the obtaining ſuch an Ability. There<g ref="char:EOLhyphen"/>fore, if you are indeed too Ignorant of the Will of God, be aſhamed of your Ig<g ref="char:EOLhyphen"/>norance and Sloth, but not aſhamed to Learn, though Late, yet better late then never.</p>
+               <pb n="29" facs="tcp:133351:19"/>
+               <p>
+                  <hi>Secondly,</hi> Having got a competent Mea<g ref="char:EOLhyphen"/>ſure of Knowledge your ſelves, begin your Work of Teaching your Children betimes; be dropping and inſtilling, ſome of the plaineſt, eaſieſt and moſt neceſſary Truths into them, as ſoon as you find them capable to Learn, and to remember. Be frequent at it, to Im<g ref="char:EOLhyphen"/>preſs them the more firmly on their Me<g ref="char:EOLhyphen"/>mories; when they can Read, put Cate<g ref="char:EOLhyphen"/>chiſms into their Hands, and require them to Learn them, to Read the Holy Scriptures daily, Hear Sermons, and take Account of them, what they Remem<g ref="char:EOLhyphen"/>ber; and Diſcourſe with them about the Truths heard, to help them to a clearer Underſtanding of them; and labour to affect their Hearts with thoſe Truths that chiefly concern them; and Charge them eſpecially to commit ſuch to their Memo<g ref="char:EOLhyphen"/>ries, encouraging the Diligent, by your Commendations and Rewards, and quic<g ref="char:EOLhyphen"/>kening the Negligent, by Reproofs and moderate Corrections.</p>
+               <p>
+                  <hi>Thirdly,</hi> Be much in Prayer to God, both for and with your Children, beg<g ref="char:EOLhyphen"/>ging a Bleſſing on your Inſtructions; Pray your ſelves, and teach them to Pray, that God would ſecond your en<g ref="char:EOLhyphen"/>deavours, and ſucceed all the Means uſed
+<pb n="30" facs="tcp:133351:20"/>for their Inſtructions by the Inward and Effectual Teaching of his Holy Spirit, to open their Underſtanding, ſtrengthen and ſanctifie their Memories, <hi>Write his Law in their Hearts, and put his Truth in<g ref="char:EOLhyphen"/>to their Inward Parts;</hi> that they may un<g ref="char:EOLhyphen"/>derſtand ſpiritual Truths ſpiritually, and be made wiſe to Salvation.</p>
+               <p>
+                  <hi>Fourthly,</hi> Set before your Children a good Example of Sobriety, Righteouſ<g ref="char:EOLhyphen"/>neſs and Holineſs in your own Lives; ſecond your Godly Inſtructions with a Godly Converſation; let them ſee by your own Obedience to the Will of God, that you believe the Truths which you teach them; and preſs no other Duties on them, than what you make Conſcience to per<g ref="char:EOLhyphen"/>form your ſelves: Then will your Inſtru<g ref="char:EOLhyphen"/>ctions be moſt like to prove Effectual, for your Children are naturally prone to imi<g ref="char:EOLhyphen"/>tate you in their Practice; more apt to be led by the Eye then by the Ear, and more inclinable to do as you do, than as you ſay, or Command.</p>
+               <p>Could you be perſwaded to follow theſe plain and neceſſary Counſels, your Children would have the Benefit, you would have the Comfort, the Church would be Enlarged, and God would be Glorified: And what ſhould you not be
+<pb n="31" facs="tcp:133351:20"/>willing to do within your Power for ſuch deſirable Ends as theſe?</p>
+               <p>But if any Chriſtian Parents remain yet unperſwadable by theſe Arguments, to ſet about this Duty, their ſinful neg<g ref="char:EOLhyphen"/>lect will become the more inexcuſable, and themſelves the more unworthy of that Honourable Name by which they are called.</p>
+               <p>Bleſſed be God, there are yet ſome Pious Parents left among us, who have a Senſe of their Duty; and endeavour to bring up their Children in the Nurture and Admonition of the Lord; and I hope the late unanimous Labours of the Miniſters of Chriſt in and about this Ci<g ref="char:EOLhyphen"/>ty, preſſing their reſpective Congregati<g ref="char:EOLhyphen"/>ons to the Revival of Family-worſhip, have been ſignally Bleſſed for the In<g ref="char:EOLhyphen"/>creaſe of the Number of ſuch, and that this is one good preſage of Gods conti<g ref="char:EOLhyphen"/>nuing his Candleſtick in the midſt of us. For Religious Families are the Seed-Plots of Piety, and the Nurſeries of the Church, ſo that if theſe flouriſh (which God grant) the Church will from them be ſupplied and enlarged.</p>
+               <p>There are alſo ſome Adult Perſons whom (though their Parents wretch<g ref="char:EOLhyphen"/>edly neglected their Souls in their Mino<g ref="char:EOLhyphen"/>rity,
+<pb n="32" facs="tcp:133351:21"/>yet) God is pleaſed to awaken and Inlighten, Convince and Convert by the Publick Miniſtry, and ſo are brought into Chriſt, and joyn themſelves for full Communion with the Particular Churches of Chriſt.</p>
+               <p>Though alas! the Number of Con<g ref="char:EOLhyphen"/>verts in our Days is ſmall in Compariſon with what hath been in former Ages; as Goſpel-Miniſters generally obſerve to their Grief, and this proves us to be up<g ref="char:EOLhyphen"/>on the decaying Hand.</p>
+               <p>And though it be the certain Duty of all Adult Perſons, that make a ſerious Profeſſion of Chriſtianity to joyn them<g ref="char:EOLhyphen"/>ſelves to ſome Particular Church in Or<g ref="char:EOLhyphen"/>der to a Participation of all Goſpel-Or<g ref="char:EOLhyphen"/>dinances, and Church-Priviledges, yet the far greater Number live in the ſhame<g ref="char:EOLhyphen"/>ful neglect hereof, ſome to thirty, for<g ref="char:EOLhyphen"/>ty, yea fifty Years of Age, and yet never received the Lords-Supper.</p>
+               <p>Theſe may properly be call'd Chriſti<g ref="char:EOLhyphen"/>ans at large, or looſe Profeſſors, if not for the Looſeneſs, and Immoralities of their Lives, yet for ſitting ſo looſe from the ſtricter Rules of Religion, and for their backwardneſs to come wholly un<g ref="char:EOLhyphen"/>der the Yoke of Jeſus Chriſt, though it be really a far eaſier Yoke than that of Sin.
+<pb n="33" facs="tcp:133351:21"/>To ſuch as theſe I would in the next Place make an Addreſs, attempting to Convince them of, and diſſuade them from their Sin, and to inſtruct them in, and perſuade them to their Duty.</p>
+               <p>For your Conviction, I offer you theſe following Conſiderations.</p>
+               <p>
+                  <hi>Firſt,</hi> Conſider, until you are Joyned to ſome Particular Church of Chriſt, you come not under the ſpecial Care, Guidance and Overſight of any Paſtor, and ſo loſe the Spiritual Benefit of that Relation, which may be a greater Dam<g ref="char:EOLhyphen"/>mage to your Souls, then you are aware of; for in divers Caſes you will need their ſpecial help by Way of Councel, Inſtruction, Support, or Comfort, to Anſwer your Doubts, Encourage you a<g ref="char:EOLhyphen"/>gainſt your Fears, Succour you under Temptations, <hi>&amp;c.</hi> The want of a skilful and faithful Soul-friend in ſuch Caſes would be greatly Prejudicial to you.</p>
+               <p>
+                  <hi>Secondly,</hi> Conſider, until you are thus Joyned, you neglect one of the Holy Or<g ref="char:EOLhyphen"/>dinances of the Lord Jeſus Chriſt his Supper, the laſt that he Inſtituted, left as a ſtanding Monument of his Matchleſs Love to his Church in Dying for it, and as a means to Perpetuate the Memory thereof in all Future Ages, and as ano<g ref="char:EOLhyphen"/>ther
+<pb n="32" facs="tcp:133351:22"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="33" facs="tcp:133351:22"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="34" facs="tcp:133351:23"/>Sign and Seal of the Covenant of Grace. An Ordinance, wherein he pro<g ref="char:EOLhyphen"/>poſeth himſelf as the ſpiritual Food of Believers, to refreſh and ſatisfie their Souls, increaſe their Grace, and nouriſh them to Life Eternal; ſo that by the neg<g ref="char:EOLhyphen"/>lect of this Ordinance,</p>
+               <p n="1">1. You Contract the guilt of great Sin upon your Souls, for it is a direct Diſ<g ref="char:EOLhyphen"/>obedience to the expreſs Command of Chriſt, who ſaith, <hi>Take, Eat,</hi> &amp;c. <hi>Drink ye all of it, and Do this in Remembrance of me.</hi> Therefore to neglect it, is practi<g ref="char:EOLhyphen"/>cally to forget Chriſt, and if you forget him, how can you Hope he will remem<g ref="char:EOLhyphen"/>ber you?</p>
+               <p n="2">2. You loſe the Spiritual Benefit and Comfort of this Ordinance, the nouriſh<g ref="char:EOLhyphen"/>ment and ſtrengthening of your Souls in Grace, which you need as well as others, and hereby give God juſt Cauſe to with<g ref="char:EOLhyphen"/>hold his Bleſſing from other Ordinances; And is this a loſs that you can eaſily bear? Is it much at one with you, whether you Profit by the Means of Grace, or no? If ſo, you are (doubtleſs) yet ſtrangers to Chriſt and Grace, and in a wretched State.</p>
+               <p n="3">3. You Grieve and Diſcourage, the Miniſters of Chriſt in their Work, and
+<pb n="35" facs="tcp:133351:23"/>give them occaſion to fear that all their Labours are loſt upon you; That you be<g ref="char:EOLhyphen"/>lieve not their true Reports of the Will of God, nor make due Application of the Word they Preach, to your own Hearts, and Lives, and ſo receive this Grace of God in Vain. This muſt needs ſadden the Hearts, and weaken the Hands of the Servants of Chriſt in their Work.</p>
+               <p n="4">4. You Scandalize other Chriſtians, and Tempt them to think that you are but Formaliſts, and Hypocrites, taking up only with an empty Name, and Pro<g ref="char:EOLhyphen"/>feſſion of Religion, but ignorant of the Life and Power of Godlineſs. To be ſure if you have Grace, the neglect of this Ordinance, (which is appointed as a Principal Means to ſtrengthen and in<g ref="char:EOLhyphen"/>creaſe it) is a plain Evidence, that your Grace is but ſmall, and weak, and rather on the decaying than growing Hand.</p>
+               <p n="5">5. You ſet an ill Example before Young<g ref="char:EOLhyphen"/>er Perſons, and Tempt them to live in the neglect of this Ordinance alſo, (for they are more apt to follow Evil Exam<g ref="char:EOLhyphen"/>ples than Good) they will be ready (through Ignorance) to Conclude, that it is no Sin, becauſe they ſee you, their Elders and Betters do ſo; and that Par<g ref="char:EOLhyphen"/>taking of this Ordinance is no neceſſary
+<pb n="36" facs="tcp:133351:24"/>Duty, but a meer Arbitrary Thing, that may be done, or not done at Plea<g ref="char:EOLhyphen"/>ſure; And would you be guilty of lead<g ref="char:EOLhyphen"/>ing Young Ones into ſuch an Error? Do you not ſee the malignant Influence of bad Examples on the moſt of Mankind, eſpecially on Youth? And do you not know that you Contract the guilt of all the Sins of others, into which they are drawn by your Example? And have you not Sins enough of your own? O there<g ref="char:EOLhyphen"/>fore beware of partaking with other Mens Sins, keep your ſelves Pure, 1 <hi>Tim.</hi> 5.22. And do not Live in the neglect of this Ordinance any longer for others Sakes, as well as for your own.</p>
+               <p>
+                  <hi>Thirdly,</hi> Conſider, until you are Joyn<g ref="char:EOLhyphen"/>ed to ſome Particular Church of Chriſt, you looſe the Benefit alſo of divers other Church Priviledges, ſuch as Communion with the Choiceſt, and moſt Experien<g ref="char:EOLhyphen"/>ced Chriſtians, an Intereſt in their ſpe<g ref="char:EOLhyphen"/>cial Love, their Watchfulneſs over you, and Helpfulneſs to you by Inſtructions, Admonitions, Exhortations, Sympathy in your Afflictions, Conſolations, Com<g ref="char:EOLhyphen"/>munication of Experiences, Prayers, <hi>&amp;c.</hi>
+               </p>
+               <p>And no wiſe Perſon would ſlight ſuch Priviledges, and ſpiritual Helps as theſe that knows how needful and uſeful they
+<pb n="37" facs="tcp:133351:24"/>may be to him in this imperfect State.</p>
+               <p>
+                  <hi>Fourthly,</hi> Conſider, until you are Joyn<g ref="char:EOLhyphen"/>ed to ſome Particular Church of Chriſt, you lye more open to Temptations from your Souls Enemies, and will be more eaſily overcome by them, for the Senſe and Conſideration of thoſe ſolemn and ſacred Bonds, which you have laid upon your Souls, by a Publick owning your Baptiſmal Covenant, and actual Renew<g ref="char:EOLhyphen"/>ing of it in Receiving the Lord's Supper; will be apt mightily to awe your Con<g ref="char:EOLhyphen"/>ſciences, keep you cloſer to your Duties, and make you more watchful, and reſo<g ref="char:EOLhyphen"/>lute againſt Temptations, and ready to cry out, when aſſaulted, <hi>How ſhall I do this great Wickedneſs, and Sin againſt that God,</hi> whom I have choſen, and to whom I have given up my Self, to Love, Fear, Obey, and Serve him in an Holy Cove<g ref="char:EOLhyphen"/>nant for ever?</p>
+               <p>Let theſe, and ſuch like Things be ſe<g ref="char:EOLhyphen"/>riouſly Conſidered, until you are Con<g ref="char:EOLhyphen"/>vinced of the ſinfulneſs of your Neglects, and humbled for them, and convinced alſo of your Duty, and made willing to ſet upon it, <hi>I ſay Willing;</hi> for I think it very ſinful to force Perſons into Church<g ref="char:EOLhyphen"/>es, or frighten them into that Partici<g ref="char:EOLhyphen"/>pation of Sacraments by Threatning Pe<g ref="char:EOLhyphen"/>nal
+<pb n="38" facs="tcp:133351:25"/>Laws, <hi>&amp;c.</hi> Seeing I find not, that Chriſt the Head of the Church, hath en<g ref="char:EOLhyphen"/>truſted any Man, or Society of Men with ſuch a Coercive Power, or that he would have any preſt into his Service. Cer<g ref="char:EOLhyphen"/>tainly he accepts of none but Volunteers, and though none are ſuch by Nature, he makes all thoſe ſuch by efficacious Grace, whom he receives. 'Tis true, Chriſt Commanded his Servants, Goſpel-Mini<g ref="char:EOLhyphen"/>ſters, to Compel Men to come in to his ſpiritual Feaſt, <hi>Luke</hi> 14.23. But ſurely he means not, that they ſhould uſe any outward Violence to their Perſons, or drive them in by Staves, Whips, or Swords. No, nor with Pecuniary Mulcts, or Fines, for the uſe of theſe belong only to the Civil Magiſtrate. Chriſt com<g ref="char:EOLhyphen"/>mitted no Civil Power to his Miniſters; Their Buſineſs was with Mens Souls, which they were to deal with in a Way agreeable to their Rational Nature; pro<g ref="char:EOLhyphen"/>poſing to them weighty Arguments to invite, and perſwade them to accept of the Kindneſs offered, and though theſe alone are not ſufficient to prevail upon the depraved Wills of Men; yet God, Joyning the Inward Powerful Workings of his Holy Spirit, to the outward Mini<g ref="char:EOLhyphen"/>ſtry of the Word, makes them effectual<g ref="char:EOLhyphen"/>ly
+<pb n="39" facs="tcp:133351:25"/>perſuaſive to all his Elect, and of un<g ref="char:EOLhyphen"/>willing, makes them Willing <hi>in the Day of his Power,</hi> as <hi>Pſalm</hi> 110.3. For the Will of Man is not to be forced. Indeed the Compulſion there ſpoken of, ſignifies no more than a Loving Invitation, or Bidding; and ſo 'tis expreſs'd by another Evangeliſt, <hi>Mat.</hi> 22.3. Chriſt ſent forth his Servants to call them that were bid<g ref="char:EOLhyphen"/>den to the Wedding, and they would not come; Chriſt doth not ſay, Then force them againſt their Wills to Come, or Puniſh, Fine, Excommunicate, or Im<g ref="char:EOLhyphen"/>priſon them for their Refuſal; he will himſelf call Men to an account for ſlight<g ref="char:EOLhyphen"/>ing his Invitation in his own Time, and therefore I think they ought to be left to him.</p>
+               <p>In the mean while, I muſt profeſs I cannot find any warrant in Scripture for Admiſſion of all Perſons though never ſo Ignorant, or Prophane to the Lord's Table: Surely the Miniſters of the Go<g ref="char:EOLhyphen"/>ſpel [whom Chriſt hath intruſted with the Keys of the Kingdom of Heaven] ſhould not ſuffer the Lords Table to be made [like the Table of a Common Or<g ref="char:EOLhyphen"/>dinary] Free for all Comers, nor caſt Chriſt's Holy Things, to known Dogs and Swine. Who ever dares to do ſo,
+<pb n="40" facs="tcp:133351:26"/>muſt be accountable to Chriſt for it, who is Jealous for his own Name, and will not hold them guiltleſs that either pollute or prophane his ſacred Inſtituti<g ref="char:EOLhyphen"/>ons, or permit others to do it, when it is in their Power to prevent it.</p>
+               <p>But I ſhall leave ſuch, to Anſwer for theſe Crimes at his Righteous Bar, who will have no reſpect to Perſons in Judg<g ref="char:EOLhyphen"/>ment. And ſhould now proceed to the next Thing intended, which is to In<g ref="char:EOLhyphen"/>ſtruct ſuch as by the forementioned Con<g ref="char:EOLhyphen"/>ſiderations, are Convinced of their ſinful Neglects of this Holy Ordinance, and to ſhew them their Duty; But that I meet with divers Objections, which ſome make againſt their Approaching this Ho<g ref="char:EOLhyphen"/>ly Supper, which muſt be anſwer'd, be<g ref="char:EOLhyphen"/>cauſe they lie as Stumbling-blocks in their Way, and are ſometimes pleaded as Excuſes for their Sin. They are ſuch as theſe,</p>
+               <p>Obj. 1. <hi>Some ſay, we think our ſelves unworthy to Partake of this Holy Ordinance, therefore we come not to it.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. If you mean by unworthineſs that you deſerve it not, this ſhould not keep you from it; for all that are Parta<g ref="char:EOLhyphen"/>kers of it, are thus unworthy. We are all unworthy of our common Food for our
+<pb n="41" facs="tcp:133351:26"/>Bodies, much more unworthy of this Ho<g ref="char:EOLhyphen"/>ly Food for our Souls; and the deeper Senſe you have of this unworthineſs, the more Worthy you are in Gods account.</p>
+               <p n="2">2. If you have a Goſpel-right to this Ordinance, and a Goſpel-ſitneſs, or Pre<g ref="char:EOLhyphen"/>paredneſs for it, you are worthy in a Go<g ref="char:EOLhyphen"/>ſpel-ſenſe to be Partakers of it. See then that you are thus qualified, and come.</p>
+               <p>Obj. 2. <hi>But we fear we are not fitted, or prepared enough to approach this Holy Ta<g ref="char:EOLhyphen"/>ble, and this keeps us off.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. It may be you do not rightly underſtand what that Fitneſs, or Prepa<g ref="char:EOLhyphen"/>redneſs is, that you ought to have, and ſo your Ignorance may occaſion your fears: If ſo, your next Duty is, to get the Knowledge thereof, and then Exa<g ref="char:EOLhyphen"/>mine your ſelves, whether you have it or no.</p>
+               <p>The <hi>Sacramental Catechiſm</hi> will inſtruct you herein.</p>
+               <p n="2">2. Your Unfitneſs, and Unpreparedneſs is your Sin, becauſe you ought to be fit, and have ſufficient means to make you ſo; therefore to Plead this for your for<g ref="char:EOLhyphen"/>bearance of this Ordinance, is to excuſe one Sin by another, which is a Plea that God will not allow of.</p>
+               <p n="3">3. It may be ſome that make this Ob<g ref="char:EOLhyphen"/>jection,
+<pb n="42" facs="tcp:133351:27"/>are better prepared then they take themſelves to be. For there are ma<g ref="char:EOLhyphen"/>ny ſincere Chriſtians, who being natu<g ref="char:EOLhyphen"/>rally of a Melancholly Temper, or of a Timerous Spirit; and having mean Thoughts of themſelves, are full of Jea<g ref="char:EOLhyphen"/>louſies, and Fears, concerning their own Sincerity, and afraid of being found Hy<g ref="char:EOLhyphen"/>pocrites at laſt. Whereas this is one good Sign of their Sincerity, that they are Self-ſuſpicious, and ſuch (though they come Trembling to this Ordinance) are more fit, and worthy; and ſo like to be more Welcome Gueſts at the Lords-Ta<g ref="char:EOLhyphen"/>ble, than many of thoſe who approach it with great Confidence; but over-looking or not clearly diſcerning the Grace of God in themſelves, they want the Com<g ref="char:EOLhyphen"/>fort, and ſo give not God the Glory of his Grace. Now ſuch as theſe ſhould not reſt ſatisfied, in their own Judgment of the State of their Souls, but ſeek to ſome Judicious Miniſter for ſpiritual Counſel, and help herein.</p>
+               <p n="4">4. If you are not yet fit, when will you be ſo? Hath not God given you ma<g ref="char:EOLhyphen"/>ny Years to prepare for this Ordinance? And are you not ſtill as unfit as ever? Yea more unfit now then you have for<g ref="char:EOLhyphen"/>merly been? Whereas in a few Days,
+<pb n="43" facs="tcp:133351:27"/>well improved, you might have gotten a Goſpel-fitneſs.</p>
+               <p n="5">5. If you are not prepared for this Ordinance, doubtleſs, you are not pre<g ref="char:EOLhyphen"/>pared for Death, and how dare you live unprepared for that, one Day or Hour; ſeeing you know you muſt Dye e're long, and you may dye ſoon, even this Day or Hour; and ſhould you dye in an un<g ref="char:EOLhyphen"/>prepared State, muſt you not be miſera<g ref="char:EOLhyphen"/>ble for ever? O let the ſerious Conſide<g ref="char:EOLhyphen"/>ration of this Danger, quicken you to prepare for Death, and then you will be prepared for this Ordinance alſo.</p>
+               <p n="6">6. What hath hitherto hindred your Preparation? Hath it not been want of a Senſe of your Duty, to wait on God in the Uſe of this, as well as of other Ordinances? And of your need of it for ſpiritual Ends? Your worldly Cares, and Incumbrances, your Love to ſome Sin, or other, and loathneſs to leave it, or your Sloath and Careleſsneſs about your Souls Concerns? Doubtleſs theſe have been the Obſtructions that have kept you back from your Duty, and theſe are Sins, and muſt be repented of, and turn<g ref="char:EOLhyphen"/>ed from, if ever you be ſaved: There<g ref="char:EOLhyphen"/>fore ſet upon this Work preſently.</p>
+               <p>Obj. 3. <hi>But (others ſay) ſome Mini<g ref="char:EOLhyphen"/>ſters,
+<pb n="44" facs="tcp:133351:28"/>will not admit us to this Ordinance, without a ſtrict Examination of us; they require we ſhould have a great deal of Knowledge, and we fear they will ask us ſuch Queſtions, as we ſhall not be able to Anſwer, and then we ſhall be turned away with Shame.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1, The Miniſters, or Paſtors of Churches are (under Chriſt) your ſpi<g ref="char:EOLhyphen"/>ritual Guides, and Overſeers, and ſo<g ref="char:EOLhyphen"/>lemnly Charged to take heed both to Themſelves, and to their Reſpective Flocks, as <hi>Acts</hi> 20.28. And <hi>Heb.</hi> 13.17. They are entruſted by Chriſt, the Chief-ſhepherd with the Care of your Souls, and muſt give an account to him of them in the Great Day.</p>
+               <p>He hath Empower'd them to teach and Rule his Church under him, and by his Laws, and will you not allow them to do their Duty? And inquire into the State of your Souls, and take heed whom they admit to meddle with theſe Holy Things? Would it not be great unfaith<g ref="char:EOLhyphen"/>fulneſs both to your Souls and their own too, if they neglect their Duty?</p>
+               <p n="2">2. No Prudent Miniſter will ask you any Queſtions, but ſuch as you ſhould be able to Anſwer. If you are Adult, or grown Perſons, and Educated under the
+<pb n="45" facs="tcp:133351:28"/>Miniſtry of the Goſpel, and ſuch as re<g ref="char:EOLhyphen"/>late to Things neceſſary to be known, to make you Wiſe unto Salvation. They only inquire, whether you underſtand, in ſome Competent Meaſure, the Religi<g ref="char:EOLhyphen"/>on you profeſs, and Soul-ſaving Truth; deſiring to know what need you have of their Help by Way of Inſtruction, and have you any Reaſon to be againſt this? Surely, did you well underſtand your own Intereſt, and Wants; you would beſeech the Miniſters of Chriſt to give you their Aſſiſtance in your Souls-con<g ref="char:EOLhyphen"/>cerns, and thankfully accept it when of<g ref="char:EOLhyphen"/>fered to you.</p>
+               <p n="3">3 Inquire of thoſe that have been with Miniſters on this Occaſion, and have been Examined, and Inſtructed by them, and ſo admitted when duly qualified; and hear what they ſay concerning this Mat<g ref="char:EOLhyphen"/>ter, and whether they Repent of their Applications to them, and Converſes with them? Or whether they have found ſpiritual Benefit thereby; If ſo, let that encourage you to go, and do likewiſe, and ſuffer not Miniſters to be Miſrepre<g ref="char:EOLhyphen"/>ſented, and your Selves abuſed, and pre<g ref="char:EOLhyphen"/>judiced againſt them by flying, and falſe Reports, or your own evil Surmiſes.</p>
+               <p n="4">4. Suppoſe the worſt, that Miniſters
+<pb n="46" facs="tcp:133351:29"/>upon Converſing with you, ſhould not find you duly qualified for this Ordi<g ref="char:EOLhyphen"/>nance, will it do you any hurt, to be brought to a better Knowledge, of the State of your own Souls, and to be coun<g ref="char:EOLhyphen"/>ſelled, and directed by thoſe that are wiſer than your Selves what to do, that you may get due Qualifications? And this is the worſt Treatment, you are like to find at Miniſters Hands.</p>
+               <p n="5">5. Conſider this ſeriouſly, if any Pro<g ref="char:EOLhyphen"/>phane, or Unworthy Perſons ſhould be admitted to this Holy Ordinance, thro' the neglect of Miniſters, their Propha<g ref="char:EOLhyphen"/>nation of it would be juſtly chargeable on ſuch Miniſters; and therefore Love to their own Souls, as well as to the Souls of others, ſhould make them care<g ref="char:EOLhyphen"/>ful in this Matter. This made Holy <hi>Calvin,</hi> that Bleſſed Inſtrument of the Reformation, deny the Lords-Supper to one <hi>Bartherius</hi> and other <hi>Servetians,</hi> who were moſt unworthy of it, tho ſome (called Proteſtants) roſe up againſt him for it, ſo that he was ready (if not al<g ref="char:EOLhyphen"/>together forced) to leave <hi>Geneva</hi> for a Time, yet bearing up his Chriſtian Cou<g ref="char:EOLhyphen"/>rage, he ſaid, I (like <hi>Chryſoſtome</hi>) will rather ſuffer Death, than that this Hand of mine ſhould give the Holy Things of
+<pb n="47" facs="tcp:133351:29"/>the Lord (that is the Lords-Supper) to the adjudged Contemners of God. [<hi>Melch. Adam</hi> in the Life of <hi>Calvin:</hi>] Now ſhould not every faithful Miniſter of Chriſt be as careful to keep this Ordi<g ref="char:EOLhyphen"/>nance of Chriſt from Prophanation, and their own Souls from Participation of o<g ref="char:EOLhyphen"/>ther Mens Sins as he? Doubtleſs they ſhould.</p>
+               <p n="6">6. You do not forbear to Conſult a Lawyer about your Eſtates, or a Phyſi<g ref="char:EOLhyphen"/>cian about your Bodies, (when occaſion requires it) for fear they will ask you ſuch Queſtions as you cannot anſwer. But you willingly ſubmit to their Inqui<g ref="char:EOLhyphen"/>ries, becauſe you know it is neceſſary that they ſhould underſtand your Caſe, that they may give you proper and a<g ref="char:EOLhyphen"/>greeable Counſel, and Advice; and ſhould you not be as willing to ſubmit to the Inquiries of Goſpel-Miniſters, (the Counſellors, and Phyſicians of your Souls) that they may know your Spiri<g ref="char:EOLhyphen"/>tual State, and give you ſuch Counſel as is ſuitable to it?</p>
+               <p>Obj. 4. <hi>But we are aſhamed to come be<g ref="char:EOLhyphen"/>fore Miniſters, and have not Confidence e<g ref="char:EOLhyphen"/>nough to Diſcourſe with them, nor are we a<g ref="char:EOLhyphen"/>ble to expreſs our Minds to them, or give an account to them of our Knowledge.</hi>
+               </p>
+               <pb n="48" facs="tcp:133351:30"/>
+               <p>
+                  <hi>Anſ.</hi> 1. You ſhould be aſhamed of no<g ref="char:EOLhyphen"/>thing, but Sin: To be aſhamed of Duty, or of what is good, is a ſinful Shame, and you have Reaſon to be aſhamed of ſuch a Shame, and Repent of it, and Pray a<g ref="char:EOLhyphen"/>gainſt it, until you are Cured of it. Yet,</p>
+               <p n="2">2. It muſt be granted, there is a natu<g ref="char:EOLhyphen"/>ral Baſhfulneſs, in ſome (eſpecially in thoſe of the weaker Sex, and in Youth) that is not eaſily Conquered; this Mini<g ref="char:EOLhyphen"/>ſters do well Underſtand, and therefore Prudence will direct them to Treat ſuch, with the greater Tenderneſs and Mild<g ref="char:EOLhyphen"/>neſs.</p>
+               <p n="3">3. Miniſters will not expect that ſuch ſhould expreſs the Senſe of their Minds with that readineſs, that others of a bolder Spirit may, but will wiſely con<g ref="char:EOLhyphen"/>ſider their Weakneſs, and diſcern Since<g ref="char:EOLhyphen"/>rity under Imperfection.</p>
+               <p>Obj. 5. <hi>But (others ſay) we are a<g ref="char:EOLhyphen"/>fraid to come to this Holy Ordinance, leaſt we ſhould</hi> Eat and Drink unworthily, <hi>for we ſhould thereby become</hi> Guilty of the Bo<g ref="char:EOLhyphen"/>dy and Blood of the Lord, and Eat, and Drink Damnation to our ſelves, <hi>as the Apoſtle ſays,</hi> 1 Cor. 11.27, 29. <hi>And we dare not run ſuch an Hazzard as this.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. It muſt be granted, that it is
+<pb n="49" facs="tcp:133351:30"/>very hazardous for all wicked and grace<g ref="char:EOLhyphen"/>leſs Perſons to meddle with this Holy Or<g ref="char:EOLhyphen"/>dinance, for they cannot but abuſe and Prophane it, and ſo bring themſelves under great Guilt, and become liable to great Puniſhment for it; therefore none ſuch ſhould dare to Approach this Or<g ref="char:EOLhyphen"/>dinance, until they Repent of their Sins, and are Converted; this Ordinance be<g ref="char:EOLhyphen"/>ing appointed, not to work Grace, where it is wanting, but to Increaſe and Strengthen it where it is already wrought; 'tis Childrens Bread, and not to be giv<g ref="char:EOLhyphen"/>en unto Dogs. Yet know,</p>
+               <p n="2">2. If you are yet in a graceleſs State, you are already in danger of Damnati<g ref="char:EOLhyphen"/>on for your other Sins, though you keep from the guilt of this; and ſo ſhould as much fear it, as thoſe that are guilty of this Sin. Nor is this Sin unpardonable, but upon true Repentance, both hath been, and may be forgiven.</p>
+               <p n="3">3. The Sin of Eating, and Drinking unworthily lies in a Perſons not diſcern<g ref="char:EOLhyphen"/>ing the Lords Body; that is, in not di<g ref="char:EOLhyphen"/>ſtinguiſhing, or not putting a difference between Ordinary, and Common Bread, and this Sacramental and Holy Bread, by which the Body of our Lord Jeſus Chriſt is ſignified and repreſented, and
+<pb n="50" facs="tcp:133351:31"/>in uſing this Bread with as little Prepa<g ref="char:EOLhyphen"/>ration, Care, Regard, and Reverence as he doth the other.</p>
+               <p>Now gracious Souls know, there is a great difference between Common Bread and this Holy Bread, and therefore will take due care to uſe it in an Holy and Re<g ref="char:EOLhyphen"/>verent Manner; and ſo keep from the guilt of unworthy Partaking, though they are not altogether free from ſinful Weakneſſes and Infirmities in this, as well as in other Duties, which yet ſhould not keep them off from this Ordinance; becauſe, upon their Repentance, they are Pardoned to them for Chriſts ſake.</p>
+               <p n="4">4. The Threatning mentioned in the Text, of Damnation, or Judgment, is not deſigned by the Apoſtle to affrighten Chriſtians from this Ordinance, but to Caution them againſt the Prophanation of it.</p>
+               <p n="5">5. Conſider, that the neglect of a known Duty, and turning your backs up<g ref="char:EOLhyphen"/>on an Ordinance of Chriſt, is a Sin, and makes liable to Damnation, or Judg<g ref="char:EOLhyphen"/>ment, as well as the ill performance of a Duty, or the Partaking of an Ordinance unworthily; and you ought to fear the one, as well as the other. It is well worth your Conſideration, what Chriſt inti<g ref="char:EOLhyphen"/>mates
+<pb n="51" facs="tcp:133351:31"/>to us in that Parable of the Mar<g ref="char:EOLhyphen"/>riage-Feaſt of the Kings Son, <hi>Mat.</hi> 22. That thoſe who made Light of the Gra<g ref="char:EOLhyphen"/>cious Invitation, and refuſed to come, were at laſt as blame-worthy as thoſe who came without a Wedding Garment; and therefore as he was Puniſhed for his Defect, ſo were they for their Diſobedi<g ref="char:EOLhyphen"/>ence; And moſt deſervedly, for of the two, they were the greater Sinners, it being a greater Sign of Contempt wholly to neglect an Ordinance of Chriſt, than to Partake of it without ſome due Qua<g ref="char:EOLhyphen"/>lifications (as one well Obſerves) ſo that the only way to avoid the Danger on both Hands, is to examine your ſelves carefully concerning your Right to, and fitneſs for this Ordinance, and when you have an Evidence of theſe, ſo Eat of this Bread, and Drink of this Cup with Ho<g ref="char:EOLhyphen"/>ly Care and Reverence.</p>
+               <p>Obj. 6. <hi>But we fear to come to this Ho<g ref="char:EOLhyphen"/>ly Ordinance, leſt we ſhould Sin again af<g ref="char:EOLhyphen"/>ter it, and then what will become of us?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. It muſt be acknowledged you have Cauſe enough to fear ſinning after this Ordinance, as well as before, while you are liable to Temptations from with<g ref="char:EOLhyphen"/>out, and have Corruption remaining within you, inclining you to cloſe with
+<pb n="52" facs="tcp:133351:32"/>them. The Senſe of your danger ſhould make you to watch againſt Temptations, and Occaſions of Sin, and nouriſh in you a fear of Caution. Such a fear (while it keeps within its due Bounds) is your Duty, and of great uſe to prevent Sin. But it is immoderate and ſinful, if it makes you neglect another known Duty (as Receiving the Lords-Supper is) and no better than being guilty of one Sin to avoid another.</p>
+               <p n="2">2. There is not a Child of God on Earth, that is perfectly free from the danger of ſinning, while he is in this im<g ref="char:EOLhyphen"/>perfect, tempted State, and you may not expect to be freed from it any more than others; ſo that if none ſhould come to this Ordinance, but ſuch as live without Sin, we muſt all lay aſide the Uſe of it, for there are no ſuch Perſons on this ſide Heaven, <hi>Eccl.</hi> 7.20. 1 <hi>John</hi> 1.8. <hi>James</hi> 3.2.</p>
+               <p n="3">3. Know that the right Uſe of this Ordinance, is a good mean to keep you from ſinning, being a ſolemn renewing your Covenant with God, and a new Bond laid on your Souls to love and ſerve the Lord, and walk the more Circum<g ref="char:EOLhyphen"/>ſpectly, and a means to ſtrengthen Grace in you.</p>
+               <p n="4">
+                  <pb n="53" facs="tcp:133351:32"/>4. If you do Sin after your Partaking of this Ordinance, you have no Reaſon to deſpair of Mercy, as if this did render your Sin unpardonable; but your Duty is to renew your Repentance for it, to pray for Pardon of it, and Power againſt it, and to ſtand more ſtrictly on your Guard for Time to come. Then you have Scripture ground to hope for Par<g ref="char:EOLhyphen"/>don, 1 <hi>John</hi> 2.1, 2. <hi>Pſalm</hi> 32.5, 6. <hi>Jer.</hi> 3.22. Read and Conſider thoſe Scriptures well.</p>
+               <p n="5">5. Beware, that it be not a ſecret Love to ſome Sin, or other, and loth<g ref="char:EOLhyphen"/>neſs to part with it, that keeps you from this Ordinance, what ever elſe may be pretended. Be very Jealous of your own Heart, <hi>for the Heart of Man is deceitful above all Things;</hi> Examine your ſelves therefore very ſtrictly, leaſt this ſhould lye at the bottom; but if you find you are indeed willing to part with every Sin, and to obey every Command of Chriſt, though you cannot live a ſinleſs Life, yet you have no juſt Cauſe to fear coming to this Ordinance.</p>
+               <p>Obj. 7. <hi>But there are ſo many different Opinions, and Sects among Profeſſors of Re<g ref="char:EOLhyphen"/>ligion, ſome ſaying their Church is the True Church, and others ſaying theirs is ſo, that
+<pb n="54" facs="tcp:133351:33"/>we are at a loſs, and know not which to Joyn our ſelves to.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. It is greatly to be lamented, that there are ſuch Differences and Divi<g ref="char:EOLhyphen"/>ſions in Matters of Religion among us, and Woe be to the Cauſers and Fomen<g ref="char:EOLhyphen"/>ters of them: They will never be able to Anſwer it to our Lord Jeſus in the Great Day; for they lay a <hi>ſtumbling-block before the Blind,</hi> as <hi>Lev.</hi> 19.14. Making them to wander out of the Way, and thereby bring themſelves under a Curſe, as <hi>Deut.</hi> 27.18. Its to be feared, that theſe Differences may hinder ſome Per<g ref="char:EOLhyphen"/>ſons from Joyning themſelves with any particular Church in full Communion, though this be the Fruit of their Igno<g ref="char:EOLhyphen"/>rance, Weakneſs, or Prejudice; Theſe Differences being no juſt Cauſe of, nor Plea for the neglect of their Duty.</p>
+               <p>For though there be ſuch Diviſions a<g ref="char:EOLhyphen"/>mong us, yet it is certain that ſome of theſe Societies of Chriſtians (at leaſt) <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ue Churches of Chriſt, tho' ſome may be more Reformed, Pure, and Sound than others; and its the Duty of every Private Chriſtian to Joyn himſelf to ſome Particular Church, and (where they have Liberty of Choice) to thoſe who are juſtly eſteemed, by Perſons ca<g ref="char:EOLhyphen"/>pable
+<pb n="55" facs="tcp:133351:33"/>to Judge <hi>(viz.)</hi> by wiſe and Ju<g ref="char:EOLhyphen"/>dicious Chriſtians, the pureſt and beſt, or ſuch as keep neareſt to the Goſpel-Rule, both in Doctrine, Worſhip, and Diſcipline.</p>
+               <p n="2">2. Conſider, for Perſons to refuſe, or neglect Joyning with any Church, under pretence of fearing, leaſt they ſhould not Joyn to a True Church; this is to be Guilty of a certain Sin, to avoid an uncertain One, and therefore no Wiſe, and Good Man would do thus.</p>
+               <p n="3">3. In what ſoever Society of Chriſti<g ref="char:EOLhyphen"/>ans the eſſential Marks of a true Goſpel-Church are to be found, <hi>(viz.)</hi> The Pure Preaching of the Word of God, and the due Adminiſtration of the Sa<g ref="char:EOLhyphen"/>craments by a Miniſter Called, Qualifi<g ref="char:EOLhyphen"/>ed, and ſet a part, according to the Rule of the Goſpel: That Society ſhould be accounted a true Goſpel-Church, and will be owned by Chriſt as ſuch: Though it may differ from other Particular Church<g ref="char:EOLhyphen"/>es in ſome Circumſtantial, and leſſer Things: And Private Chriſtians ought not to refuſe Joyning themſelves to any ſuch Society, ſeeing Chriſt hath received them.</p>
+               <p n="4">4. It is evident to every Underſtand<g ref="char:EOLhyphen"/>ing, and Impartial Eye, That thoſe of
+<pb n="56" facs="tcp:133351:34"/>the moderate Epiſcopal, Presbyterian, and Congregational Perſuaſions, have the Eſſence of true Goſpel-Churches, and own the ſame Doctrinal Articles of the Chriſtian Faith, though they differ in Diſcipline, and Modes of Worſhip: Therefore Private Chriſtians may ſafely Joyn themſelves to either of them, ac<g ref="char:EOLhyphen"/>cording as they are perſuaded in their own Minds.</p>
+               <p>And (ſuppoſing you have heard the Miniſters of each of theſe Perſuaſions) where you have found the moſt ſpiritual Benefit: There it is moſt adviſable for you to Joyn, if it may be.</p>
+               <p>Obj. 8. <hi>But (ſays another) I am Poor, and Low in the World, and have nothing to give toward the Maintenance of a Mini<g ref="char:EOLhyphen"/>ſter, and ſhould I ſeek to Joyn my Self to a Church, they may be ready to think I do it only in hopes of a ſhare in their Charity, and Reject me, for fear I ſhould be burden<g ref="char:EOLhyphen"/>ſom to them; this keeps me off.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. This Objection ſavours of Pride, and Uncharitableneſs, which be<g ref="char:EOLhyphen"/>come not any Chriſtians, eſpecially the poorer ſort, Humility, and Charity, or Love would teach you to think the beſt, and to eſteem others better than your ſelves; and to hope that Miniſters,
+<pb n="57" facs="tcp:133351:34"/>and Chriſtians do better underſtand the Will of Chriſt, and their own Duties, than to be guilty of refuſing Admiſſion of any Perſon into their Communion, meerly for their Poverty; and you ought to think thus of them, until you find the contrary.</p>
+               <p n="2">2. Were you ſure before-hand, that they would refuſe you, yet it is your Duty to offer your ſelf and ſeek Admiſ<g ref="char:EOLhyphen"/>ſion; and then if they unjuſtly refuſe you, the Sin will lye at their Doors, and you will be Free: But their Omiſſi<g ref="char:EOLhyphen"/>on of their Duty, will be no good ex<g ref="char:EOLhyphen"/>cuſe for your neglecting your own Duty.</p>
+               <p n="3">3. No faithful Miniſter of Chriſt dares to refuſe the pooreſt Chriſtian, becauſe he is Poor; provided it appears to him that he hath a Goſpel-Right to, and fit<g ref="char:EOLhyphen"/>neſs for Admiſſion to this Ordinance; ſeeing he could not Anſwer it to our Lord Jeſus Chriſt, who refuſeth none that come to Him, but inviteth all, whe<g ref="char:EOLhyphen"/>ther Rich or Poor; as <hi>Mat.</hi> 11.28. and <hi>John</hi> 6.37. And requires his Miniſters to do the ſame, <hi>Mat.</hi> 28.19, and <hi>Mark</hi> 16.15, 16. <hi>Mat.</hi> 22.9, 10.</p>
+               <p>They know, that <hi>not many Mighty, not many Noble are called;</hi> but that <hi>God hath choſen the Poor of this World, Rich in
+<pb n="58" facs="tcp:133351:35"/>Faith, and Heirs of the Kingdom which he hath promiſed to them that Love him,</hi> as 1 <hi>Cor.</hi> 1.26. and <hi>James</hi> 2.5. And whom God hath choſen, and called, they will not knowingly Refuſe.</p>
+               <p n="4">4. You ought rather to be Jealous of your own Heart, then Suſpicious of o<g ref="char:EOLhyphen"/>thers; and ſee that you aim at higher and better Ends in ſeeking to Joyn your ſelf to any Church of Chriſt, than to ob<g ref="char:EOLhyphen"/>tain ſome worldly Support, as knowing thoſe that followed Chriſt only for the Loaves, were juſtly blamed by Him, <hi>John</hi> 6.26. If your Ends be Right, and Good, leave God to take care of your Eſteem in the Hearts of other Chriſti<g ref="char:EOLhyphen"/>ans.</p>
+               <p>Obj. 9. <hi>But (ſay others) we hope we may go to Heaven, though we never Re<g ref="char:EOLhyphen"/>ceive the Lords Supper; God forbid, that all who Dye without this Ordinance ſhould periſh.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. Far be it from me to ſay, or think that none go to Heaven but the Receivers of this Ordinance, for I believe the contrary: Yea, I know that ſome of thoſe who are Partakers of it will pe<g ref="char:EOLhyphen"/>riſh, for want of a Saving Change upon their Hearts, as <hi>Luke</hi> 13.26, 27.</p>
+               <p>I freely grant that neither the Partici<g ref="char:EOLhyphen"/>pation
+<pb n="59" facs="tcp:133351:35"/>of this, nor any other Ordinance is abſolutely neceſſary to Salvation; ſee<g ref="char:EOLhyphen"/>ing God doth nothing by Ordinances, but what he can do without them, if he pleaſe. Yet,</p>
+               <p n="2">2. I ſay, it is neceſſary that we ſhould uſe the Means appointed by Chriſt in Order to our Salvation, and this is one of them: If we would obtain the End, we muſt uſe the Means; it being no bet<g ref="char:EOLhyphen"/>ter then a Tempting of God, to expect the one without the other.</p>
+               <p n="3">3. The neglect of this Ordinance is a Sin, being a Diſobedience to a plain Command of Chriſt; who ſays, <hi>Do this in Remembrance of me;</hi> and unleſs God grant Repentance to thoſe that are guilty of it, it will prove damnable: Now while Men continue in this neg<g ref="char:EOLhyphen"/>lect, they do not truly repent of it, for there is no true Repentance without Re<g ref="char:EOLhyphen"/>formation.</p>
+               <p n="4">4. God hath no where promiſed Sal<g ref="char:EOLhyphen"/>vation to ſuch as Live, and Dye in the known and wilful neglect of this, or any other Ordinance, or Duty; but threat<g ref="char:EOLhyphen"/>ens the contrary, and who would ha<g ref="char:EOLhyphen"/>zard his Salvation by ſuch a neglect?</p>
+               <p>Obj. 10. <hi>But (ſay others) we have heard of ſuch ill things of ſome Church-Mem<g ref="char:EOLhyphen"/>bers,
+<pb n="60" facs="tcp:133351:36"/>that we think it a diſgrace to us to Joyn with them, though they make Holy Profeſſions, yet their Practices are unholy, and prophane, and ſcandalous, and this keeps us off from their Communion.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. It may be the Report you have heard is falſe, and only raiſed by ſome Enemy to Religion, and the Pro<g ref="char:EOLhyphen"/>feſſors of it; if ſo, you wrong both your ſelves, and the Perſons concerned in be<g ref="char:EOLhyphen"/>lieving of it, before you have throughly examined the Truth of it; it is ſinful to <hi>Take up a Reproach againſt our Neighbour,</hi> as <hi>Pſalm</hi> 15.3.</p>
+               <p n="2">2. Suppoſe the Report appear to be true, yet their Church-Memberſhip is not the cauſe of thoſe Immoralities, but the Corruption of their own Hearts, or the want of that Grace which they pre<g ref="char:EOLhyphen"/>tend to have.</p>
+               <p n="3">3. Their Sin is to themſelves, and ſhall not be charged on thoſe that hold Church-Fellowſhip with them; if they do their Duty in Admoniſhing and Re<g ref="char:EOLhyphen"/>proving them for it, and do no way Partake with them therein. Such a Re<g ref="char:EOLhyphen"/>proof Prudently, and privately given by a Fellow-Member, may be Bleſſed of God, to the Conviction and Reformation of a diſorderly Walker, being a Means of
+<pb n="61" facs="tcp:133351:36"/>Chriſts own Appointment to this End: If not, the Reprovers ought to acquaint the Church with it, that they may uſe Church-Diſcipline upon them; which if they neglect, the Reproving Members will have this to ſatisfie them, that they have diſcharged their Duty, and delive<g ref="char:EOLhyphen"/>red their own Souls, as <hi>Mat.</hi> 18.15, 16.</p>
+               <p n="4">4. The Participation of all Goſpel-Ordinances, being the Priviledge, as well as the Duty, of all true Believers, to be kept from any of them, muſt be a Loſs and Puniſhment; ſo that if you are ſuch, and yet keep your ſelves off from any Ordinance of Chriſt, becauſe ſome of thoſe that Partake of them are guilty of ſcandalous, or diſorderly Walking, you puniſh your ſelves for the Faults of others, which is Injuſtice.</p>
+               <p n="5">5. To keep off from any Ordinance of Chriſt, meerly becauſe ſome unwor<g ref="char:EOLhyphen"/>thy Perſons partake of it; is to make their Sin in one kind, an occaſion of your ſinning in another kind: Their Sin being a Sin of Commiſſion, yours a Sin of Omiſſion.</p>
+               <p n="6">6. If all that truly fear God, ſhould keep off from Joyning with this, or that Particular Church, becauſe there are ſome Members in it that are diſorderly Walk<g ref="char:EOLhyphen"/>ers;
+<pb n="62" facs="tcp:133351:37"/>either all ſuch Churches muſt be diſ<g ref="char:EOLhyphen"/>ſolved, or elſe they muſt be made up on<g ref="char:EOLhyphen"/>ly of ſuch diſorderly Walkers: But I ſuppoſe no Wiſe and Good Man will ſay, that either of theſe ought to be. You muſt know, the Viſible Church of Chriſt on Earth hath Hypocrites in it as well as ſincere Chriſtians, and when the Hypo<g ref="char:EOLhyphen"/>criſie of any Member appears by their o<g ref="char:EOLhyphen"/>pen and ſcandalous Sins, that Particular Church to which they belong, ought to uſe Church-Diſcipline upon them, to bring them to Repentance and Reforma<g ref="char:EOLhyphen"/>tion; and to keep themſelves free from a ſhare in their Guilt. But no Chriſtian ought to keep from Joyning with a Par<g ref="char:EOLhyphen"/>ticular Church, becauſe there are ſome ſuch Peccant Members in it.</p>
+               <p>Obj. 11. <hi>But if this Ordinance is to be uſed only in Remembrance of Chriſt (ſay ſome) we can remember him well enough without it; we think of him every Day; the Reading, and Hearing of the Word, puts us frequently in Mind of Him: How can any Chriſtian forget him that hath done, and ſuffered ſo much for them? Therefore we ſee no ſuch need of this Ordinance for this End.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. This Objection ſavours rankly of Ignorance, and Pride, which are ve<g ref="char:EOLhyphen"/>ry
+<pb n="63" facs="tcp:133351:37"/>Provoking Sins in the Eyes of God; did you well underſtand the Nature, Uſe, and Ends of this Holy Ordinance, and the ſpiritual Benefit of a right Par<g ref="char:EOLhyphen"/>ticipation of it, you would not think it a needleſs Thing.</p>
+               <p>And were you not puffed up with Pride, you would not account your ſelves wiſer than Chriſt himſelf, who Inſtitu<g ref="char:EOLhyphen"/>ted this Ordinance; which he had never done, had he not intended it for the Spiritual Good of the Receivers. Did Chriſt judge it needful, and dare you ſay it is needleſs? Doth it become ſin<g ref="char:EOLhyphen"/>ful Duſt, contemptible Worms to ſlight an Ordinance of their Lord and Savi<g ref="char:EOLhyphen"/>our?</p>
+               <p n="2">2. Though the Reading, and Hearing of the Word are uſeful to put us in Mind of Chriſt, yet the uſe of this Holy Sup<g ref="char:EOLhyphen"/>per may do it more Effectually: For ſome Truths do more powerfully affect our Hearts, when they are conveyed to us by the Eye, than by the Ear: The Sight of the Execution of a Man uſually makes deeper Impreſſions on our Spirits, and moves our Affections, more than a bare hearing of it doth.</p>
+               <p>Now in this Ordinance, Chriſt is re<g ref="char:EOLhyphen"/>preſented as Crucified before our Eyes,
+<pb n="64" facs="tcp:133351:38"/>as <hi>Gal.</hi> 3.1. And our dull and dead Hearts need the moſt Heart-affecting, and quick<g ref="char:EOLhyphen"/>ning Means and Ordinances.</p>
+               <p n="3">3. Know, that this Ordinance is In<g ref="char:EOLhyphen"/>ſtituted for other Holy Ends beſides that of remembring Chriſt; as to be a Seal of the Covenant of Grace: To be a means to nouriſh and ſtrengthen Grace, <hi>&amp;c.</hi> (as you have heard before) and ſo is needful, and to be uſed for thoſe Ends, as well as for that.</p>
+               <p n="4">4. Gracious Souls have ſometimes met with ſome peculiar Manifeſtations of Chriſt, and of his Love in this Ordi<g ref="char:EOLhyphen"/>nance, and ſuch Spiritual, Refreſhment, Strength, and Comfort, as they found not in Reading, or Hearing the Word. For Chriſt will not be wanting to bleſs his own Ordinances to their proper Ends; and their Experiences ſhould be Argu<g ref="char:EOLhyphen"/>ments, encouraging others to uſe this Ordinance in hopes of the like Bene<g ref="char:EOLhyphen"/>fits.</p>
+               <p>Obj. 12. <hi>But (ſay others) we are ſo Incumbred, and Diſtracted with the Cares and Troubles of this World, that we cannot be enough Compoſed in our Spirits to approach this Holy Ordinance; could we once get well through them, we would then endeavour to prepare for it, and come to it.</hi>
+               </p>
+               <pb n="65" facs="tcp:133351:38"/>
+               <p>
+                  <hi>Anſ.</hi> This is no Juſt Plea, or Excuſe for your neglect of this Ordinance, for Conſider</p>
+               <p n="1">1. God allows you ſufficient Time for neceſſary Cares about your Worldly Matters, and appoints you proper time alſo for the care of your ſpiritual Con<g ref="char:EOLhyphen"/>cerns; and it is your Duty to ſee that e<g ref="char:EOLhyphen"/>very Thing be minded in its due Time and Place. Spiritual Things ſhould be minded in the firſt Place, as <hi>Mat.</hi> 6.33. And therefore, if you put them off till laſt, you are guilty of Inverting or Changing the Order which Chriſt hath commanded you to obſerve, and that is ſinful.</p>
+               <p n="2">2. No more Worldly Cares are law<g ref="char:EOLhyphen"/>ful, and allowable to you, but what are conſiſtent with the more weighty Care of Religion and your Souls; while they are moderate, and keep within due bounds, they hinder not the other; but the exceſs of them is ſinful, which there<g ref="char:EOLhyphen"/>fore you ought to Watch and Pray a<g ref="char:EOLhyphen"/>gainſt.</p>
+               <p n="3">3. You may get through the World, as ſoon as get through your Worldly Cares and Troubles; for they uſually accompany us, more or leſs, all our Days; as ſoon as one Trouble is over
+<pb n="66" facs="tcp:133351:39"/>another ſucceeds, one begets another, as Wave begets Wave; ſo that if you ſtay from this Ordinance until you are wholly freed from them, you are never like to Partake of it.</p>
+               <p n="4">4. Many of your Worldly Troubles and Afflictions, are procured to you by your own Sins; or ſent of God to cor<g ref="char:EOLhyphen"/>rect you for them, drive you from them unto God, and make you more mindful of Religion, and your Souls concerns; ſo that you make a quite Contrary uſe of them, if they drive you farther from God, and make you the more to neglect the Care of better Things.</p>
+               <p>Obj. 13. <hi>But when you have ſaid all that you can for this Ordinance (ſay o<g ref="char:EOLhyphen"/>thers) this is but a Ceremony, that you Plead ſo much for; and to neglect a Cere<g ref="char:EOLhyphen"/>mony we hope can be no great Offence, but will be eaſily forgiven while we mind the more ſubſtantial Duties of Religion?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. Though it be but a Ceremo<g ref="char:EOLhyphen"/>ny, it is commanded to be uſed by the Lord Jeſus Chriſt himſelf, and ſo of Di<g ref="char:EOLhyphen"/>vine Authority; ſo that the neglect of it is Diſobedience to God, and that is no ſmall Offence.</p>
+               <p n="2">2. Though it be a Ceremony, yet it is a very ſignificant, and honourable Ce<g ref="char:EOLhyphen"/>remony,
+<pb n="67" facs="tcp:133351:39"/>being appointed by Chriſt to ſignifie and repreſent his Death and Suf<g ref="char:EOLhyphen"/>ferings for our ſakes, in which his matchleſs Love to Sinners was diſplayed, and therefore to ſlight and neglect it, muſt be no leſs than a ſlight put upon his Love, and a Practical forgetfulneſs of him, ſeeing he requires us to uſe this Ordinance in Remembrance of Him; and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s this nothing in your Eyes?</p>
+               <p n="3">3. The ſmaller the Thing, or the ea<g ref="char:EOLhyphen"/>ſier the Duty is that Chriſt Commands, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he greater is the Sin of ſuch as Diſobey <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. Had he commanded far greater Things, ſhould you not Obey? how much more when he injoyns you ſo ſmall <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Thing as this? What will you deny <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o do an eaſie Duty at the Command of Chriſt, who refuſed not both to do and ſuffer the greateſt Things for you? Is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his your Love and Thankfulneſs to Chriſt?</p>
+               <p n="4">4. Know, That the abuſe or neglect of a Ceremony that is of Divine Inſti<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ution, may be very diſpleaſing unto God, and Dangerous to our Selves; was not the Tree of Knowledge of Good and Evil a Ceremony? Yet by our firſt Pa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ents abuſe of it, in Eating the Fruit <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hereof contrary to Gods Law, the
+<pb n="68" facs="tcp:133351:40"/>Wrath of God was brought on them and all their Poſterity, <hi>Gen.</hi> 2.17.</p>
+               <p>Was not Circumciſion a Ceremony? yet <hi>Moſes</hi> his neglect to Circumcize his Son was like to coſt him his Life, as <hi>Exod.</hi> 6.24.</p>
+               <p>And as ſlight as you may make of this Ceremony of the Lords-Supper, yet for the abuſing of it, ſome of the <hi>Corinthi<g ref="char:EOLhyphen"/>ans</hi> were ſmitten with Sickneſs, and Weakneſs, and others with Death; as 1 <hi>Cor.</hi> 11.30. Now if God puniſheth Men for the abuſe of this Ordinance, can it be rationally Thought that he will ſuffer the Neglecters and Deſpiſers of it to go unpuniſhed?</p>
+               <p>Obj. 14. <hi>But (ſay ſome) the Lords-Supper was but a Temporary Ordinance, or to be uſed in the Chriſtian Church only for a Time, that is, till Chriſts coming; as</hi> 1 Cor. 11.26. For as oft as ye Eat this Bread, and Drink this Cup, ye do ſhew forth the Lords Death till he come. <hi>Now (ſay</hi> Quakers, <hi>for this is their Obje<g ref="char:EOLhyphen"/>ction) Chriſt is come to us in Spirit: Therefore we uſe not this Ordinance.</hi>
+               </p>
+               <p>This indeed is the moſt ſinful, and dangerous Objection of all; becauſe it ſtrikes at the very being of this Ordi<g ref="char:EOLhyphen"/>nance, and ſeeks the Deſtruction, and
+<pb n="69" facs="tcp:133351:40"/>Cutting it off from the Churches of Chriſt; and therefore muſt be the more warily, and vigorouſly oppoſed.</p>
+               <p>For the Confutation of it, I ſhall pro<g ref="char:EOLhyphen"/>poſe theſe following Conſiderations:</p>
+               <p>
+                  <hi>Firſt,</hi> Conſider, Though it muſt be granted, Chriſt doth indeed ſpeak of a<g ref="char:EOLhyphen"/>nother Coming to his Church before his Coming to Judge the World; as <hi>John</hi> 14.18. <hi>I will not leave you Comfortleſs, I will come to you;</hi> and this Coming may be called his Coming in, or rather by the Spirit, which he promiſed to ſend in his Name, to Teach, Sanctifie, and Com<g ref="char:EOLhyphen"/>fort his Church; as <hi>John</hi> 15.26.</p>
+               <p>So that in reſpect of this his Spiritual Coming, he promiſed to be with it al<g ref="char:EOLhyphen"/>ways, <hi>even to the End of the World;</hi> as <hi>Mat.</hi> 28. <hi>laſt.</hi> Yet I ſay, The Apoſtle is not to be underſtood in that Scrip<g ref="char:EOLhyphen"/>ture, to ſpeak of Chriſts Coming in Spi<g ref="char:EOLhyphen"/>rit, but of his Coming in Perſon: For,</p>
+               <p>
+                  <hi>Secondly,</hi> Conſider, Chriſt was come in Spirit to his Church before that E<g ref="char:EOLhyphen"/>piſtle to the <hi>Corinthians</hi> was written; whether we underſtand it of that extra<g ref="char:EOLhyphen"/>ordinary, and miraculous Coming of the Spirit on the Apoſtles, mentioned, <hi>Acts</hi> 2.1, to 5. or of the ordinary Coming of the Spirit, as the Teacher, Sanctifi<g ref="char:EOLhyphen"/>er,
+<pb n="70" facs="tcp:133351:41"/>or, Leader, and Comforter of the Church, Bleſſing his Ordinances to theſe Ends.</p>
+               <p>Every true Believer hath Chriſt thus come into his Soul at his Regeneration, or Converſion; and to be fine the Ho<g ref="char:EOLhyphen"/>ly Apoſtles experimentally knew this Coming of Chriſt by his Spirit unto their Souls, before the Inſtitution of his Ho<g ref="char:EOLhyphen"/>ly Supper; and ſo did the ſincere Mem<g ref="char:EOLhyphen"/>bers of thoſe Primitive Churches at <hi>Co<g ref="char:EOLhyphen"/>rinth, Epheſus, Philippi,</hi> &amp;c. who yet kept up the Uſe of this Ordinance a<g ref="char:EOLhyphen"/>mong them.</p>
+               <p>
+                  <hi>Thirdly,</hi> Conſider, the whole Current of Learned Expoſitors in all former A<g ref="char:EOLhyphen"/>ges of the Chriſtian Church to this very Day, underſtand by that Coming of Chriſt mentioned, 1 <hi>Cor.</hi> 11.26. to be meant his Coming to Judgment, [as I could eaſily ſhew, but that the Quotati<g ref="char:EOLhyphen"/>ons of them would take up too much Room here] nor have I found any Chri<g ref="char:EOLhyphen"/>ſtian otherwiſe Minded, until the <hi>Qun<g ref="char:EOLhyphen"/>kers</hi> Invented this New Senſe of thoſe Words, to Countenance their Rejection of this Holy Ordinance; Now can any wiſe Man Imagine, that Chriſt would have ſuffered his Church to erre in this Point for ſo many paſt Ages; and ne<g ref="char:EOLhyphen"/>ver
+<pb n="71" facs="tcp:133351:41"/>have diſcovered the true Senſe of that Text; till of Late, to this ſort of Men who are guilty of rejecting other Ordinances of Chriſt, as well as this; as Baptiſm, Singing of Pſalms, the Ob<g ref="char:EOLhyphen"/>ſervation of the Lords-Day, and the Goſpel-Miniſtry?</p>
+               <p>Believe it he that can.</p>
+               <p>
+                  <hi>Fourthly,</hi> Conſider, if this Opinion were true, that when Chriſt is come in or by his Spirit to Men, they ſhould no longer Partake of the Lords-Supper; Then none ſhould Partake of it, but ſuch to whom Chriſt is not thus come, that is, Graceleſs Perſons; But this is a groſs Error, for theſe ought not to meddle with this Holy Ordinance, until they are Converted.</p>
+               <p>None are fit Gueſts for this Holy Ta<g ref="char:EOLhyphen"/>ble of the Lord, but thoſe that are true<g ref="char:EOLhyphen"/>ly Gracious, becauſe they muſt Exerciſe Grace at this Ordinance; as Faith, Re<g ref="char:EOLhyphen"/>pentance, Love, <hi>&amp;c.</hi> which neceſſarily Implies, that they muſt have it before they come. All unſanctified Perſons that Partake of it, do but prophane, and pollute it, <hi>and Eat and Drink Judgment to themſelves.</hi> So that if graceleſs Per<g ref="char:EOLhyphen"/>ſons ought not to approach this Ordi<g ref="char:EOLhyphen"/>nance, becauſe they are graceleſs (as we
+<pb n="72" facs="tcp:133351:42"/>ſay) and if Gracious Perſons ought not to uſe it, becauſe they are Gracious (as the <hi>Quakers</hi> ſay) then none at all muſt uſe it; and ſo this Ordinance would be wholly laid aſide as uſeleſs.</p>
+               <p>But can any Man of tollerable Senſe be of this Opinion? What would this be leſs than to accuſe Chriſt (who is Wiſ<g ref="char:EOLhyphen"/>dom it ſelf) of Folly, in ſetting up a uſeleſs and needleſs Ordinance in his Church? And do fooliſh Worms think they ſhall be able to make good this Charge againſt him in the great Day?</p>
+               <p>
+                  <hi>Fifthly,</hi> Suppoſe that Text in 1 <hi>Cor.</hi> 11.26. Were to be underſtood of Chriſts Coming in Spirit (as they hold) yet I think it worth obſerving; that, though the Apoſtle approves of the Uſe of this Ordinance till then, he doth not ſay, then it is to be laid aſide, and uſed no more by ſuch.</p>
+               <p>Nor will his Words admit of that Senſe any more than the like Phraſe u<g ref="char:EOLhyphen"/>ſed by him, as 1 <hi>Tim.</hi> 4.13. <hi>Till I come, give attendance to Reading, to Exhor<g ref="char:EOLhyphen"/>tation, to Doctrine.</hi> Did the Apoſtle mean (think you) that young <hi>Timothy</hi> ſhould Study, and Preach the Word only until he came to him, and ever after lay both aſide? Surely no, I judge this Expreſſi<g ref="char:EOLhyphen"/>on
+<pb n="73" facs="tcp:133351:42"/>in 1 <hi>Cor.</hi> 11.26. Frees Chriſtians no more from their Obligation to con<g ref="char:EOLhyphen"/>tinue the Uſe of the Lords-Supper, than the like Expreſſion in 1 <hi>Tim.</hi> 4.13. Freed <hi>Timothy</hi> from his Obligation to conti<g ref="char:EOLhyphen"/>nue his Miniſtry.</p>
+               <p>
+                  <hi>Sixthly,</hi> The Reaſons and Ends for which Chriſt Inſtituted this Ordinance, will continue as long as Chriſt hath a Church in the World, and that will be till his coming to Judgment; therefore this Ordinance ought to continue ſo long alſo. For as none but Chriſt hath Right and Power to ſet up, alter, or remove an Ordinance in his Church (he being the only Head and Law-giver of it) ſo he never makes any ſuch Alteration, but when there is juſt Cauſe for it.</p>
+               <p>Thus we find the Ordinance of Cir<g ref="char:EOLhyphen"/>cumciſion continued in the <hi>Jeſish</hi> Church, until the Time of Chriſts Coming in the Fleſh, when it pleaſed him to Inſtitute Baptiſm to be of the ſame Uſe in the Chriſtian Church: So the Paſſover con<g ref="char:EOLhyphen"/>tinued until Chriſt appointed the Lords-Supper (an Ordinance of like Signifi<g ref="char:EOLhyphen"/>cation and Uſe) to ſucceed it.</p>
+               <p>And this (doubtleſs) muſt continue until it ſhall pleaſe him to ſet up ano<g ref="char:EOLhyphen"/>ther in the room of it (which is not to
+<pb n="74" facs="tcp:133351:43"/>be expected, theſe being the laſt Ages of the World) and while the Church hath need of it for its Spiritual Uſes and Ends, that is for the preſerving the Me<g ref="char:EOLhyphen"/>mory of Chriſts Death, the Confirmati<g ref="char:EOLhyphen"/>on of the Covenant of Grace, <hi>&amp;c.</hi> and theſe Ends will continue till Chriſts coming to Judgment.</p>
+               <p>To this purpoſe is the Note of a Ju<g ref="char:EOLhyphen"/>dicious Divine on 1 <hi>Cor.</hi> 11.26. Becauſe (ſaith he) we ſhall always want ſuch an help as long as we remain in this World, St. <hi>Paul</hi> ſignifies, this Remembrance of Chriſt is recommended to us, until he appears to Judgment; for ſeeing he is not converſant among us in a Viſible Form, it is neceſſary that there ſhould be ſome Sign of his Spiritual Preſence with which our Minds may Exerciſe themſelves.</p>
+               <p>Theſe Things duly and impartially conſidered, may be (I hope) ſufficient to convince all ſober minded Perſons, that this Ordinance is not Antiquated, or grown out of Date, but ought ſtill to be Reverently uſed by Chriſtians to the End of the World.</p>
+               <p>Having thus endeavoured to Anſwer all the Objections I have met with, or could think of; by which Perſons are,
+<pb n="75" facs="tcp:133351:43"/>or may be kept off from this Ordinance, and ſo cleared my Way, and (I hope) theirs too, by removing Obſtructions: I ſhall now Inſtruct ſuch as are convin<g ref="char:EOLhyphen"/>ced of their ſinful Neglects, and are made in ſome Meaſure willing and de<g ref="char:EOLhyphen"/>firous of Reformation in this Matter.</p>
+               <p n="1">1. Go to God and humbly acknow<g ref="char:EOLhyphen"/>ledge your faults with Shame and Sor<g ref="char:EOLhyphen"/>row of Heart, begging pardoning Grace for the ſake of Chriſt, and reſolve in his Strength to continue in this Sin no long<g ref="char:EOLhyphen"/>er; but uſe all good Means to get the Knowledge of your Duty, and ſet about it; To which end,</p>
+               <p n="2">2. Examine your Selves, Whether you be in the Faith, or whether you have a Goſpel-right to, and fitneſs for this Ho<g ref="char:EOLhyphen"/>ly Ordinance of the Lords-Supper? If you need any help herein, the <hi>Sacra<g ref="char:EOLhyphen"/>mental Catechiſm</hi> may be uſeful to you as to this. But for your better Aſſiſtance,</p>
+               <p n="3">3. Apply your ſelves to ſome able Miniſter of the Goſpel, eſpecially to him to whoſe Spiritual Overſight and Conduct you intend to commit your Souls; deſire his Aſſiſtance, ſubmit to his Inquiry into the State of your Souls, and Intreat his Impartial Thoughts or Judgment of it. Propoſe your Doubts,
+<pb n="76" facs="tcp:133351:44"/>and Scruples to him (if you have any) in order to Satisfaction, and ask his Spi<g ref="char:EOLhyphen"/>ritual Counſel and Direction in the Way of your Duty.</p>
+               <p n="4">4. Get the Knowledge of the Way and Manner of Tranſition, or Paſſage of Church-Members from their Infant-ſtate to that of Adult, or grown Perſons; and the Terms of their Admiſſion to full Communion with a Particular Church, that you may underſtand what will be required of you, and conſider well, whether you can freely, and hear<g ref="char:EOLhyphen"/>tily Comply with the Terms propoſed? If you find in them any Matter of Doubt, or Scruple, ſignifie it to the Paſtor, and ſeek Satisfaction of him; and when you are ſatisfy'd, make it alſo known to him, with your Deſires of Admiſſion.</p>
+               <p>Indeed the Method of Admiſſion is not the ſame in all Particular Churches: Though I acknowledge an Uniformity in this Thing (as well as others of Common Concern) is much to be deſi<g ref="char:EOLhyphen"/>red and endeavoured, as what would be greatly Conducive to Unity, Love, and Peace amongſt Chriſtians, and the Edifi<g ref="char:EOLhyphen"/>cation and Enlargement of the Kingdom of Chriſt in the World.</p>
+               <p>I ſhall not pretend to give you an ac<g ref="char:EOLhyphen"/>count
+<pb n="77" facs="tcp:133351:44"/>of the various Methods of ſeveral Churches here: But only add theſe Two Things more,</p>
+               <p>
+                  <hi>Firſt,</hi> I ſhall acquaint you with the Pra<g ref="char:EOLhyphen"/>ctice of the Primitive Church in this Mat<g ref="char:EOLhyphen"/>ter; and</p>
+               <p>
+                  <hi>Secondly,</hi> Give you an account of my own Judgment and Practice herein, Humbly ſubmitting it to the free Cenſure of the more Judicious.</p>
+               <p>
+                  <hi>Firſt,</hi> Then as to the Tranſition, or paſſing of Church-Members from their Infant-State to the State of the Adult, and Admiſſion to full Communion with a Particular Church of Chriſt; know, that in the Church, or Houſhold of Faith, there are Members of ſeveral Sizes or Statures, ſome are but new-born Babes; as 1 <hi>Pet.</hi> 2.2. Some little Children, o<g ref="char:EOLhyphen"/>thers; Young-Men, and others called Fa<g ref="char:EOLhyphen"/>thers; as 1 <hi>John</hi> 2.12, 13, 14.</p>
+               <p>In Chriſts Fold ſome are Lambs others Sheep; as <hi>John</hi> 21.15, 16. Being thus diſtinguiſhed according to the different Time of their ſtanding in the Church; or the different Meaſure of Knowledge and Grace they have obtained; and re<g ref="char:EOLhyphen"/>gard ought to be had to each according<g ref="char:EOLhyphen"/>ly in Feeding and Ruling of them, that Milk be given to Babes, even <hi>the ſincere
+<pb n="78" facs="tcp:133351:45"/>Milk of the Word;</hi> i. e. Such Truths as are Plain, and eaſie to be underſtood by them who are unskilful in the Word of Righteouſneſs, and ſtrong Meat to ſuch as are of full (or perfect) Age, <hi>i. e.</hi> Such Truths as are more Myſterious, Sublime and Spiritual; they being Per<g ref="char:EOLhyphen"/>ſons who by Reaſon of Uſe, have their Senſes exerciſed to diſcern both Good and Evil, as <hi>Heb.</hi> 5.12, 13, 14. Some Chriſtians are in their Infant-ſtate, and ſo to be admitted only to a Participati<g ref="char:EOLhyphen"/>on of thoſe Priviledges and Ordinances that belong to it: Others are in their Adult-ſtate, and ſo have a Right to Partake of the higheſt Priviledges and Ordinances in the Church; Church-Hi<g ref="char:EOLhyphen"/>ſtory informs us, that in the Primitive Times there were ſeveral Ranks of Pro<g ref="char:EOLhyphen"/>feſſed Chriſtians; the loweſt were cal<g ref="char:EOLhyphen"/>led <hi>Catechumens,</hi> Catechized Perſons of which there were two Sorts.</p>
+               <p n="1">1. Such as were Sinners of the <hi>Gen<g ref="char:EOLhyphen"/>tiles,</hi> or <hi>Heathens</hi> by Birth; but upon the Preaching the Goſpel to them, in<g ref="char:EOLhyphen"/>clined to, and began to embrace the Chriſtian Faith, and were thereupon in<g ref="char:EOLhyphen"/>ſtructed in the Principles of it, or in the Doctrine of Chriſt. Theſe were on<g ref="char:EOLhyphen"/>ly in the Church-Porch.</p>
+               <p n="2">
+                  <pb n="79" facs="tcp:133351:45"/>2. Such as were the Children of Be<g ref="char:EOLhyphen"/>lieving, or Chriſtian Parents; who by their Birth-right, being Members of the Viſible Church, and under the ſame Co<g ref="char:EOLhyphen"/>venant of Grace with their Parents, re<g ref="char:EOLhyphen"/>ceived Baptiſm in their Infancy as a Seal of the Covenant; and were to be brought up by their Parents, <hi>in the Nur<g ref="char:EOLhyphen"/>ture and Admonition of the Lord,</hi> as <hi>Eph.</hi> 6.4.</p>
+               <p>Both theſe Sorts of <hi>Catechumens</hi> were Inſtructed in the Chriſtan Religion by a Catechiſt, or Miniſter; whoſe main Buſineſs was to feed theſe Lambs of Chriſt, and to train them up in the Way they ſhould go, and take care of theſe Young Plants, as being the Nur<g ref="char:EOLhyphen"/>ſeries of the Church.</p>
+               <p>When the former Sort were ſuffici<g ref="char:EOLhyphen"/>ently Inſtructed, they deſired to be Bap<g ref="char:EOLhyphen"/>tized, and then were called Competent; <hi>i. e.</hi> Perſons deſiring Baptiſm, upon which they gave in their Names, and came under a ſtrict, even a ſeven-fold Examination, and ſo were admitted to Baptiſm: Then were called, <hi>Batptizati, &amp; Illuminati,</hi> i. e. Baptized and Inlight<g ref="char:EOLhyphen"/>ned Perſons, and no longer accounted to be in the Porch, but got over the Threſhold into the Church; owned as
+<pb n="80" facs="tcp:133351:46"/>Fellow-Citizens and Deniſons with the Saints and of the Houſhold of God, and had their Names inrolled among the Servants of Chriſt.</p>
+               <p>Being thus initiated, or entred into the Church, they obtained ſome Privi<g ref="char:EOLhyphen"/>ledges, which they had not before, of which this was one: That the Myſte<g ref="char:EOLhyphen"/>ries of the Sacraments (of which, they were ignorant while <hi>Catechumens,</hi> or knew but little of them) were more clearly revealed to them. For the Church then thought fit to conceal the knowledge of them till after Baptiſm, both becauſe they were ſuch high Myſte<g ref="char:EOLhyphen"/>ries, and leaſt the knowledge of them ſhould bring them into Contempt, and that they might be ſtirred up to ſtrong<g ref="char:EOLhyphen"/>er Deſires after them (ſay ſome) yet were they accounted but incompleat Chriſtians; and might not be admitted to all the Priviledges of Church-Mem<g ref="char:EOLhyphen"/>bers, as being yet but in their Infant-State, or Minority, until they received Confirmation alſo, which was perform<g ref="char:EOLhyphen"/>ed by the Impoſition, or laying on them the Hands of the Miniſter, or Paſtor of the Church, and Prayer unto God for his Holy Spirit, Increaſe of Grace, and their Confirmation or Eſtabliſhment in
+<pb n="81" facs="tcp:133351:46"/>the Faith of Chriſt, which they had pro<g ref="char:EOLhyphen"/>feſſed.</p>
+               <p>This Religious Rite of Confirmation both the forementioned ſorts of <hi>Catechu<g ref="char:EOLhyphen"/>mens</hi> were obliged to receive; and ſo by it were paſſed from their Infant-ſtate, to the State of the Adult, and then admit<g ref="char:EOLhyphen"/>ted to the Participation of all the Privi<g ref="char:EOLhyphen"/>ledges of Church-Members, even to the Lords-Supper it ſelf, the higheſt Myſte<g ref="char:EOLhyphen"/>ry of Chriſtianity; and ſo became, and were declared to be compleat and per<g ref="char:EOLhyphen"/>fect Chriſtians, therefore they were cal<g ref="char:EOLhyphen"/>led, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Perfect, as <hi>Phil.</hi> 3.15. Not as if they had attained a ſinleſs Perfection in Grace and Holineſs: But becauſe now they had all things needful to the Perfecting of their Church-ſtate.</p>
+               <p>Thoſe that were not Baptized till A<g ref="char:EOLhyphen"/>dult, or grown Perſons, received Con<g ref="char:EOLhyphen"/>firmation, by Impoſition of Hands (or<g ref="char:EOLhyphen"/>dinarily) in a ſhort Time after their Baptiſm, to make them compleat Church-Members. But ſuch as being the Chil<g ref="char:EOLhyphen"/>dren of Believers, were Baptized in their Infancy, were not Confirmed till they were grown up to Years of Diſcre<g ref="char:EOLhyphen"/>tion, and well Inſtructed in the Princi<g ref="char:EOLhyphen"/>ples of the Chriſtan Religion by their Parents, and by the Catechiſts, and ſo
+<pb n="82" facs="tcp:133351:47"/>capable to give an account of their Knowledge and Faith; nor were any judged meet for Admiſſion to the Lords-Table, until they had ſome conſiderable Time before given Proof of their Man<g ref="char:EOLhyphen"/>ners and Godlineſs. But when they were Confirmed, and had received that Ordinance, they were then arrived at the higheſt Form in the School of Chriſt, his Church, and then were called <hi>Fide<g ref="char:EOLhyphen"/>les.</hi> The Faithful.</p>
+               <p>That this was the Practice of the Pri<g ref="char:EOLhyphen"/>mitive Church is plainly and fully prov<g ref="char:EOLhyphen"/>ed by divers Learned Pens, and amongſt our own, eſpecially by Mr. <hi>Hanmer,</hi> and Mr. <hi>Baxter;</hi> to whoſe Writings, I refer ſuch who deſire more clear Light, and fuller Satisfaction in this Point.</p>
+               <p>All that I ſhall further obſerve at pre<g ref="char:EOLhyphen"/>ſent, as to Confirmation is; That this (as well as other Goſpel-Ordinances) was in after-Ages Corrupted and Abu<g ref="char:EOLhyphen"/>ſed, by the Addition of Chryſm, or Unction; that is, Anointing with Oyl; and by admitting thoſe to it, who were not the meet Objects of it, as Perſons groſly Ignorant and Propane, <hi>&amp;c.</hi>
+               </p>
+               <p>The juſt Reſentment and Abhorrence of theſe Corruptions, hath occaſioned a fault on the other hand in many of the
+<pb n="83" facs="tcp:133351:47"/>Churches of Chriſt <hi>(viz.)</hi> the Total Rejection or diſuſe of this Pious Rite, of which (I fear) they will be able to give no good account to our Lord Jeſus in the Great Day; our Duty (doubtleſs) lyes between theſe two Extreams, to Reform the Abuſes, and reaſſume the Primitive right Uſe of Confirmation; a thing greatly to be deſired, and zealouſ<g ref="char:EOLhyphen"/>ly to be endeavoured by the Reformed Churches, for the Glory that might hence Redound to God, and the Bene<g ref="char:EOLhyphen"/>fits that would accrue to the Church of Chriſt by it. As the forementioned Au<g ref="char:EOLhyphen"/>thors have excellently demonſtrated, and therefore with Nervous Arguments perſwade to the Revival of it.</p>
+               <p>May there be new Effuſions of Gods Holy Spirit on thoſe who are principally concerned, <hi>i. e.</hi> Chriſtian Magiſtrates and Miniſters, to put them on the vigo<g ref="char:EOLhyphen"/>rous Uſe of their Authority and Inte<g ref="char:EOLhyphen"/>reſt, for a more perfect and thorow Re<g ref="char:EOLhyphen"/>formation in this, and ſome other Points that call for it, at this Day; that all remaining Corruptions may be ſwept out of Gods Houſe, and Chriſtian Pra<g ref="char:EOLhyphen"/>ctice at length reduced to, and regula<g ref="char:EOLhyphen"/>ted by, the Goſpel-rule in all things.</p>
+               <p>
+                  <hi>Secondly,</hi> Mean while I ſhall next (as
+<pb n="84" facs="tcp:133351:48"/>I promiſed) humbly propoſe this fol<g ref="char:EOLhyphen"/>lowing Method, for the Paſſage of Church-Members from their Infant-ſtate to the State of the Adult, and Admiſ<g ref="char:EOLhyphen"/>ſion to full Communion; being what is already practiced in ſome, and eaſily practicable in other Churches of Chriſt, if their reſpective Paſtors would come to a mutual Agreement herein; which I humbly conceive, might without much difficulty be obtained, If attempted by prudent, and proper Hands, to whoſe Thought, this well-meant-Motion is heartily Recommended, in hopes that it might prove in Time, a <hi>good Expedient</hi> to reſtore <hi>Confirmation</hi> to its Primitive Uſe, and for the preſent be an equivalent.</p>
+               <p>
+                  <hi>Firſt,</hi> Seeing the Title-Condition of Infants Church-Memberſhip is not the ſame with that of the Adult (as the Learned <hi>Baxter</hi> hath plainly proved) that of Infants being this, That they be the Children of Believing Parents, and Dedicated to God by them in their Baptiſm; That of the Adult being this that they be actual Believers, and De<g ref="char:EOLhyphen"/>dicate themſelves to God in Baptiſm, I think it requiſite, that when any Perſon ſignifies his Deſires of Admiſſion to full Communion, the Paſtor of the Church
+<pb n="85" facs="tcp:133351:48"/>ſhould Inquire, which of theſe Titles he pretends to, and deal with him accord<g ref="char:EOLhyphen"/>ingly: if the former, Then to acquaint him with the Manner of Tranſition from the Infant to the Adult-ſtate, by renew<g ref="char:EOLhyphen"/>ing his Baptiſmal Covenant, and Profeſ<g ref="char:EOLhyphen"/>ſion of the Chriſtian Faith, and Exhort him to it. If the latter, to enquire in<g ref="char:EOLhyphen"/>to the Sincerity, and Credibility of his Profeſſion (as far as may be) and to admit, or refuſe him, according to the Satisfaction, or Diſſatisfaction he ſhall receive herein.</p>
+               <p>
+                  <hi>Secondly,</hi> Seeing many of thoſe who were Baptized in their Infancy, are bred up in Ignorance of the very Principles of Religion, others Corrupted with Error, others Immoral, and Prophane in their Lives, it is alſo neceſſary that the Paſtor inquire both into the Knowledge, Faith, and Life of him that ſeeks Admiſſion. I ſay,</p>
+               <p n="1">1. Into his Knowledge, Whether he be competently acquainted (at leaſt) with the Fundamental and neceſſary Truths of Chriſtianity, and if he be found groſly and culpably Ignorant; the Paſtor may endeavour in a prudent and loving Way, to make him ſenſible of the greatneſs of this Sin of Ignorance,
+<pb n="86" facs="tcp:133351:49"/>in thoſe that enjoy ſuch excellent and plentiful Means of Knowledge as we; of the neceſſity, excellency, and uſeful<g ref="char:EOLhyphen"/>neſs of ſpiritual Knowledge, in order to the pleaſing of God, and ſaving his own Soul; of the danger of living and dying in Ignorance, <hi>&amp;c.</hi> And ſeriouſly preſs him to a more careful Uſe, and improve<g ref="char:EOLhyphen"/>ment of the means of Knowledge, for Time to come; ſuch as Reading the Holy Scriptures and other good Books, Hearing of, and Conferring with Mini<g ref="char:EOLhyphen"/>ſters of the Goſpel, and Praying for the Teachings of Gods Holy Spirit.</p>
+               <p>And that his Knowledge may be the more Methodical and Diſtinct, adviſe him firſt to take ſome good Catechiſm in Hand, [eſpecially that of the Aſſem<g ref="char:EOLhyphen"/>bly of Divines, and the Explications of it, the <hi>Communicants Inſtructor,</hi> or <hi>Sa<g ref="char:EOLhyphen"/>cramental Catechiſm,</hi> &amp;c.] and perſuade him to familiarize the precious Truths contained in them, and make them his own, getting them (if poſſible) into his Memory, which a little Pains, and a willing Mind might ſoon obtain in the moſt.</p>
+               <p>I have known ſome of Forty, Fifty, yea ſixty Years of Age, who in a few Months Time have by this means got
+<pb n="87" facs="tcp:133351:49"/>more Underſtanding in the Things of God (as they have freely Confeſſed) than ever they had in their whole Life before. And though I know it is no eaſie Matter to perſwade ſome grown Perſons to this, who being Proud, and Idle, as well as Ignorant, account it a Diſgrace to be put (like Children) to a Catechiſm; yet every one that is ſo far awaken'd, and inlighten'd as to ſee his own Ignorance and need of Know<g ref="char:EOLhyphen"/>ledge, and to have a ſincere Love to, and Deſire after it, will readily follow the ſpiritual Counſel of ſuch as are Wi<g ref="char:EOLhyphen"/>ſer than themſelves, in Order to the at<g ref="char:EOLhyphen"/>taining of it. And as many as have a juſt and deep Concern for the Eternal Sal<g ref="char:EOLhyphen"/>vation of their own Souls, will think no Pains too much to take for the further<g ref="char:EOLhyphen"/>ing and ſecuring thereof.</p>
+               <p>It may (poſſibly) be a little difficult at firſt, but when they have been Inured to it for ſome time, their Deſires after Knowledge, and the ſweetneſs of it, will facilitate, or make it eaſie to them. Could we prevail on thoſe Adult Per<g ref="char:EOLhyphen"/>ſons amongſt us that need it, to take this faithful Advice, their Minds would be much more inlightned in the Know<g ref="char:EOLhyphen"/>ledge of Chriſt, and the better prepa<g ref="char:EOLhyphen"/>red
+<pb n="88" facs="tcp:133351:50"/>for profiting by Reading and Hear<g ref="char:EOLhyphen"/>ing the Word. Were ſuch a Form of ſound Words well learnt, and thereby the Foundation of Chriſtianity well laid in the Minds of Men, the ſuperſtructure of Knowledge would be carried on with greater facility, firmneſs, and ſucceſs; but until this be done, Miniſters have lit<g ref="char:EOLhyphen"/>tle Reaſon to wonder, that they Work at the Labour-in-Vain in Preaching; though they may be Inſtant in Seaſon, and out of Seaſon, if Milk be not given to Babes in Chriſt, as well as ſtrong Meat to grown Chriſtians, the Younger may ſtarve while the Elder thrive and flouriſh. O that all the Miniſters of the Goſpel, would ſeriouſly think of this, and take due Care to feed Chriſts Lambs, as well as his Sheep, (but this by the Way.)</p>
+               <p>Yet in inſpecting the Knowledge of Perſons, due regard muſt be had to their different Capacities, the Means and Helps they have had to get Knowledge, the Time they have enjoyed them, their different Abilities to expreſs themſelves, their Baſhfulneſs, <hi>&amp;c.</hi> That no ſincere, though weak Chriſtian be diſcouraged, and that ſuch as have arrived but at a tolerable degree of the Knowledge of,
+<pb n="89" facs="tcp:133351:50"/>and belief in God, the Father, Son and Spirit, of their Baptiſmal-Covenant with God, and other Points of abſolute Ne<g ref="char:EOLhyphen"/>ceſſity to Salvation (though their Ap<g ref="char:EOLhyphen"/>prehenſions in ſome Things are but rude and imperfect) be not Rejected, but Treated with all Tenderneſs, Love, and Prudence; and helped forward in the Ways of Chriſt.</p>
+               <p>But if the Paſtor find the Candidate furniſhed with a competent Meaſure of Knowledge, he ſhould next inquire,</p>
+               <p n="2">2. Into his Faith, whether he be ſound in the Faith of Chriſt, or believes the fundamental Articles of the Chriſtian Religion; that if the Paſtor find him un<g ref="char:EOLhyphen"/>der any Error, he may endeavour by better Inſtruction to Cure him of it be<g ref="char:EOLhyphen"/>fore his Admiſſion; leaſt he ſhould In<g ref="char:EOLhyphen"/>fect others therewith, and occaſion a Schiſm in the Church. When the Pa<g ref="char:EOLhyphen"/>ſtor is fatisfied as to this Particular, he ſhould further Inquire:</p>
+               <p n="3">3. Into his Life and Converſation, whether it be agreeable to his Holy Pro<g ref="char:EOLhyphen"/>feſſion, and ſuch as becometh the Goſpel of Chriſt; of this Neighbouring Chriſti<g ref="char:EOLhyphen"/>ans ſhould be the Obſervers and Wit<g ref="char:EOLhyphen"/>neſſes, for the better Satisfaction of the Paſtor, and the whole Church. Great
+<pb n="90" facs="tcp:133351:51"/>Care ſhould be taken alſo in this Mat<g ref="char:EOLhyphen"/>ter, leaſt ſuch as are ſcandalous in their Lives be admitted, and thereby this Ho<g ref="char:EOLhyphen"/>ly Ordinance be prophaned, the Godly offended and grieved, the Mouth of the Wicked opened to ſpeak Evil of the Ways and Servants of Chriſt, and God diſhonoured, and provoked to inflict ſome Judgment upon them.</p>
+               <p n="4">4. Seeing the Lords-Supper is appoin<g ref="char:EOLhyphen"/>ted for the increaſe and ſtrengthening of Grace where it is, and not for the work<g ref="char:EOLhyphen"/>ing of Grace where it is not, and ſo thoſe that approach it ſhould be only Gracious Perſons, if they would receive Benefit thereby; [for we muſt firſt live ſpiritually (as well as naturally) before we Eat and Drink] therefore it is need<g ref="char:EOLhyphen"/>ful that the Paſtor inquire alſo into the State of the Candidates Soul: What ex<g ref="char:EOLhyphen"/>perience he hath had of the workings of Gods Word and Spirit upon him? What Reaſon he can give of the hope of Salvation, that is in him? What E<g ref="char:EOLhyphen"/>vidences he hath of a ſaving change, or work of Grace upon his Heart, 1 <hi>Pet.</hi> 3.15.</p>
+               <p>And for the better diſcovery of his Souls Condition, direct him in that need<g ref="char:EOLhyphen"/>ful and uſeful Duty of Self-examination,
+<pb n="91" facs="tcp:133351:51"/>and Exhort him to a diligent perfor<g ref="char:EOLhyphen"/>mance of it, and to an Holy Jealouſie over his own Heart, leaſt he ſhould be deceived by it in a Matter of ſo great Importance, 1 <hi>Cor.</hi> 11.28, 29. The <hi>Sa<g ref="char:EOLhyphen"/>cramental Catechiſm</hi> may be very helpful to him in this Work, in which he will find the Marks, or Signs of ſaving Grace, and thereby may the better Judge of his own Caſe.</p>
+               <p n="4">4. When the Paſtor hath received Sa<g ref="char:EOLhyphen"/>tisfaction in theſe Points, and in the Judgment of Charity, believes him to have a Goſpel-right to and fitneſs for this Ordinance; it ſeems neceſſary (at leaſt on a prudential account, and for the fuller Satisfaction of the Church) that the Perſon be propounded to the Church, when met together, by Name, and Place of Habitation, and held as an Expectant for ſome convenient Time, [at leaſt from the Time of his Propoſal to the next Sacrament-day] That the Members may have liberty and oppor<g ref="char:EOLhyphen"/>tunity to Inquire, whether he be well reported of, and unblameable in his Con<g ref="char:EOLhyphen"/>verſation. And that they firſt give the Paſtor an Account of what they hear, more Privately, that if any thing be ob<g ref="char:EOLhyphen"/>jected, he may further inform himſelf as
+<pb n="92" facs="tcp:133351:52"/>to the Truth of it, and the Perſon be kept off until the Objection ſhall be re<g ref="char:EOLhyphen"/>moved, and all concerned receive Satiſ<g ref="char:EOLhyphen"/>faction.</p>
+               <p n="5">5. When the Expectant is actually to be admitted, and come before the Church: The Paſtor may ſignifie him to be the Perſon formerly propounded to them, deſiring to be joyned to them, and admitted to full Communion with them, requiring that if any Member re<g ref="char:EOLhyphen"/>main yet unſatisfied, he would <hi>Now ſpeak,</hi> or by their ſilence [lifting up the Hand, or other Signal] teſtifie their unani<g ref="char:EOLhyphen"/>mous Conſent to his Admiſſion, which being done, the Paſtor may next deſire him to make Profeſſion of his Faith, and own his Baptiſmal-Covenant, addreſſing himſelf to him in theſe, or ſuch like Words.</p>
+               <p>Seeing you deſire to be admitted into full Communion with this Church of Chriſt, to walk with it in all Goſpel-Ordinances and Duties, and to partake with it in all Church-Priviledges, and it being fit the Church ſhould ſatisfied that every Perſon admitted a Member thereof do own and profeſs the ſame Principles of the Chriſtian Faith which the Church profeſſeth. In Order to
+<pb n="93" facs="tcp:133351:52"/>this Satisfaction, you are deſired to make true Anſwer to theſe following Queſti<g ref="char:EOLhyphen"/>ons.</p>
+               <p>
+                  <hi>Q.</hi> 1. Do you believe there is but one only Living, and True God; the Father, the Son, and the Holy Ghoſt, which are Three diſtinct Perſons, and each of them God, and yet all of them but One God, Infinite, Eternal and Unchangea<g ref="char:EOLhyphen"/>ble in his Being, Wiſdom, Power, Ho<g ref="char:EOLhyphen"/>lineſs, Juſtice, Goodneſs and Truth?</p>
+               <p>
+                  <hi>A.</hi> I do believe this.</p>
+               <p>
+                  <hi>Q.</hi> 2. Do you believe that this God from all Eternity, ordained whatſoever comes to paſs in Time; and that in the beginning of Time, he Created and made the whole World, and all Things therein out of nothing, by the Word of his Power in the ſpace of ſix Days, and all very Good, and that he doth ſtill uphold, preſerve, and govern it accord<g ref="char:EOLhyphen"/>ing to his own Will, and for his own Glory?</p>
+               <p>
+                  <hi>A.</hi> I do believe this.</p>
+               <p>
+                  <hi>Q.</hi> 3. Do you believe that God made Man upright, after his own Image, in Knowledge, Righteouſneſs and Holi<g ref="char:EOLhyphen"/>neſs, with Dominion over the Creatures here below, and that he entred into a Covenant of Life with him, upon Con<g ref="char:EOLhyphen"/>dition
+<pb n="94" facs="tcp:133351:53"/>of Perfect Obedience, forbidding him to eat of the Tree of Knowledge of Good and Evil upon Pain of Death?</p>
+               <p>
+                  <hi>A.</hi> I do believe this.</p>
+               <p>
+                  <hi>Q.</hi> 4. Do you believe that our firſt Parents, being left to the Freedom of their own Wills, and hearkening to the Temptation of Satan, Tranſgreſſed the Commandment of God, by Eating the forbidden Fruit; and ſo brake their Co<g ref="char:EOLhyphen"/>venant with God, and thereby brought themſelves, and all their Poſterity, de<g ref="char:EOLhyphen"/>ſcending from them by ordinary Gene<g ref="char:EOLhyphen"/>ration, into an Eſtate of Sin and Miſery?</p>
+               <p>
+                  <hi>A.</hi> I do believe this.</p>
+               <p>
+                  <hi>Q.</hi> 5. Do you believe that Man thus fallen, was not able to recover himſelf, and that God, having out of his meer good Pleaſure elected ſome to Everlaſt<g ref="char:EOLhyphen"/>ing Life, did enter into a Covenant of Grace, to deliver them out of that E<g ref="char:EOLhyphen"/>ſtate of Sin and Miſery, and to bring them into an Eſtate of Salvation by Chriſt as a Redeemer?</p>
+               <p>
+                  <hi>A.</hi> I do believe this.</p>
+               <p>
+                  <hi>Q.</hi> 6. Do you believe that the Lord Jeſus Chriſt, being the Eternal and on<g ref="char:EOLhyphen"/>ly begotten Son of God, became Man alſo in the fulneſs of Time, by taking to himſelf a true Body, and a reaſonable
+<pb n="95" facs="tcp:133351:53"/>Soul, being Conceived by the Power of the Holy Ghoſt in the Womb of the Virgin <hi>Mary,</hi> of her Humane Subſtance, and born of her, yet without Sin, both in his Nature, and Life; and that ſo he was, and continueth ſtill to be both God and Man in Two diſtinct Natures, and one Perſon for ever?</p>
+               <p>
+                  <hi>A.</hi> I do believe this.</p>
+               <p>
+                  <hi>Q.</hi> 7. Do you believe that this Re<g ref="char:EOLhyphen"/>deemer of God Elect, as a Prophet doth Teach his Church by his Word and Spirit, the Will of God for their Salva<g ref="char:EOLhyphen"/>tion: And as a Prieſt hath ſatisfied Di<g ref="char:EOLhyphen"/>vine Juſtice for their Sins, and reconci<g ref="char:EOLhyphen"/>led them to God by his once Offering up himſelf as a Sacrifice unto God, in Suffering the Curſed Death of the Croſs, and now continually interceeds for them in Heaven; and as a King, ſubdues the Elect unto himſelf, Ruleth and Defend<g ref="char:EOLhyphen"/>eth them, and Reſtrains and Conquers all his and their Enemies?</p>
+               <p>
+                  <hi>A.</hi> I do believe this.</p>
+               <p>
+                  <hi>Q.</hi> 8. Do you believe that though this Jeſus Chriſt was put to Death and Bu<g ref="char:EOLhyphen"/>ried, yet he roſe again from the Dead on the Third Day, ſhewed himſelf to his Diſciples, and Converſed with them a<g ref="char:EOLhyphen"/>live, and afterward in the ſight of di<g ref="char:EOLhyphen"/>vers
+<pb n="96" facs="tcp:133351:54"/>of them, aſcended into Heaven; where he ſtill remaineth ſitting at the Right Hand of God the Father, from whence he ſhall come at the Day appoin<g ref="char:EOLhyphen"/>ted by God to Judge the World in Righ<g ref="char:EOLhyphen"/>teouſneſs?</p>
+               <p>
+                  <hi>A.</hi> I do believe this.</p>
+               <p>
+                  <hi>Q.</hi> 9. Do you believe that God the Holy Ghoſt, proceeding from the Father and the Son, hath fully, and ſufficiently Revealed the Will of God in the Holy Scriptures of the Old and New Teſta<g ref="char:EOLhyphen"/>ment, to be the perfect, perpetual, and only Rule of our Faith and Obedience: And that the ſame Holy Spirit doth Effectually apply the Redemption pur<g ref="char:EOLhyphen"/>chaſed by Chriſt, with all the ſaving Be<g ref="char:EOLhyphen"/>nefits of his Mediation, Death and Me<g ref="char:EOLhyphen"/>rits, to the Elect, by working Faith in them, and thereby uniting them to Chriſt in their Effectual Calling?</p>
+               <p>
+                  <hi>A.</hi> I do believe this.</p>
+               <p>
+                  <hi>Q.</hi> 10. Do you believe that this Ho<g ref="char:EOLhyphen"/>ly Spirit of God dwelleth and worketh in all that are Effectually Called, and drawn to Chriſt: And that all Gods Elect, being united unto Chriſt, as to their Common Head, make up one Ca<g ref="char:EOLhyphen"/>tholick Church, or Myſtical Body of Chriſt, the Members whereof having
+<pb n="97" facs="tcp:133351:54"/>Fellowſhip with God the Father, Son and Spirit by Faith, and one with one ano<g ref="char:EOLhyphen"/>ther by Love, do in this Life partake of Juſtification, Adoption and Sanctificati<g ref="char:EOLhyphen"/>on, with all the Benefits that do accom<g ref="char:EOLhyphen"/>pany or flow from them. And that their Souls at Death are made perfect in Holi<g ref="char:EOLhyphen"/>neſs, and do immediately paſs into Glo<g ref="char:EOLhyphen"/>ry, but their Bodies being ſtill united to Chriſt, do reſt in their Graves till the Reſurrection?</p>
+               <p>
+                  <hi>A.</hi> I do believe this.</p>
+               <p>
+                  <hi>Q.</hi> 11. Do you believe that theſe pre<g ref="char:EOLhyphen"/>cious Benefits, purchaſed by Chriſt, are diſpenſed to the Elect by the Holy Spirit of God, in the Uſe of his Sacred Ordi<g ref="char:EOLhyphen"/>nances, the Word, Sacraments and Pray<g ref="char:EOLhyphen"/>er, as being the means appointed by God, for the Working, Increaſing, and Perfe<g ref="char:EOLhyphen"/>cting of Grace in their Hearts, and that therefore theſe Ordinances are duly and reverently to be uſed, and carefully im<g ref="char:EOLhyphen"/>proved by Chriſtians to theſe ſpiritual Ends, until Chriſts ſecond Coming?</p>
+               <p>
+                  <hi>A.</hi> I do believe this.</p>
+               <p>
+                  <hi>Q.</hi> 12. Do you believe that in the ge<g ref="char:EOLhyphen"/>neral Reſurrection at the laſt Day, all the Righteous ſhall be raiſed up in Glo<g ref="char:EOLhyphen"/>ry, by Vertue of their Union unto Chriſt their Head, and ſhall be openly acknow<g ref="char:EOLhyphen"/>ledged
+<pb n="98" facs="tcp:133351:55"/>and acquitted by him their Judge, and ſo made perfectly Bleſſed in the Full and Eternal Enjoyment of God in Heaven, whereas the Wicked alſo ſhall be raiſed by the Power of Chriſt; but ſhall be condemned by him, and ſent in<g ref="char:EOLhyphen"/>to Everlaſting Puniſhment in Hell?</p>
+               <p>
+                  <hi>A.</hi> I do believe this.</p>
+               <p>
+                  <hi>Q.</hi> 1. Do you alſo own and heartily Conſent unto your Covenant with God in Baptiſm; that is, repenting of your Sins againſt God, and renouncing the World, the Fleſh and the Devil: Do you take the only Living and True God for your only God, and Chief Good; God the Father to be your God, and Father; God the Son to be your Redeemer, and Saviour; and God the Holy Ghoſt to be your Sanctifier, Guide, and Comforter: And do you ſincerely give up your whole Self, Soul and Body to this one God, as his Covenant-Servant to Believe, Love, and Obey him conſtantly, and faithfully according to his Word, and that unto the Death.</p>
+               <p>
+                  <hi>A.</hi> I do this ſincerely, as far as I know my own Heart.</p>
+               <p>
+                  <hi>Q.</hi> 2. Are you deſirous to partake of the Holy Ordinance of the Lords-Supper, as being a Seal of the Covenant of Grace:
+<pb n="99" facs="tcp:133351:55"/>That thereby this Covenant between God and you may be Renewed, and Confirm<g ref="char:EOLhyphen"/>ed, and that you may thereby keep in thankful Memory the Death of our Lord Jeſus Chriſt?</p>
+               <p>
+                  <hi>A.</hi> This is my unfeigned Deſire.</p>
+               <p>
+                  <hi>Q.</hi> 3. Do you truly Conſent and Pro<g ref="char:EOLhyphen"/>miſe to ſubmit to the Holy Diſcipline and Government, which the Lord Jeſus Chriſt, the only Head and Law-giver of his Church, hath ordained for his own Glo<g ref="char:EOLhyphen"/>ry, and his Churches good, and in par<g ref="char:EOLhyphen"/>ticular to ſubmit to the ſpiritual Guidance, and over-ſight of the Paſtor of this Church, according to the Mind of Chriſt?</p>
+               <p>
+                  <hi>A.</hi> I do truly Conſent and Promiſe ſo to do.</p>
+               <p>
+                  <hi>Q.</hi> 4. Will you alſo patiently ſubmit to the Chriſtian Admonitions, and Re<g ref="char:EOLhyphen"/>proofs of your Fellow-Members in this Church, and conſcientiouſly perform the ſame Duty towards them (if occaſion ſo require) according to Chriſts own com<g ref="char:EOLhyphen"/>mand for Church Order?</p>
+               <p>
+                  <hi>A.</hi> I will do ſo, the Lord enabling me.</p>
+               <p>Theſe Queſtions thus Propoſed, and Anſwered: The Paſtor may apply him<g ref="char:EOLhyphen"/>ſelf to the Perſon concerned, in theſe, or ſuch like Expreſſions.</p>
+               <pb n="100" facs="tcp:133351:56"/>
+               <p>Upon this ſerious and credible Profeſ<g ref="char:EOLhyphen"/>ſion of the Chriſtian Faith, which you have now made before God, and this Church; the Renewing of your Cove<g ref="char:EOLhyphen"/>nant with God, and the Satisfaction I have had concerning the ſuitableneſs of your Converſation
+<note n="*" place="margin">Here I hum<g ref="char:EOLhyphen"/>bly conceive the Impoſition of the Paſtors Hands may properly take Place.</note>. I Re<g ref="char:EOLhyphen"/>ceive and admit you into full Communion with this Church of Chriſt, to walk with it in all Goſpel-Ordinances and Duties, and to partake with it in all Goſpel-Privi<g ref="char:EOLhyphen"/>ledges. And I, as the Pa<g ref="char:EOLhyphen"/>ſtor thereof Exhort and Beſeech you; yea, I Charge and Command you in the Name of the Chief Sheppard, our Lord Jeſus Chriſt: That you hold faſt this Chriſtian Faith which you have now pro<g ref="char:EOLhyphen"/>feſſed, and be faithful and ſtedfaſt in that Covenant with God, which you have now Renewed.</p>
+               <p>And that denying all Ungodlineſs, and Worldly Luſts, you live Soberly, Righ<g ref="char:EOLhyphen"/>teouſly and Godlily in this preſent World, that you may alſo be received by Chriſt, and owned by him in the great Day, as a living Member of his Myſtical Body, and God in Covenant may be your God and Portion for ever.</p>
+               <pb n="101" facs="tcp:133351:56"/>
+               <p>When Impoſition of Hands ſhall be u<g ref="char:EOLhyphen"/>ſed, it ſeems proper to joyn a ſhort Pray<g ref="char:EOLhyphen"/>er with it at the cloſe of this Exhortati<g ref="char:EOLhyphen"/>on, for Chriſts gracious Reception of the Perſon thus admitted, Gods favourable Acceptance of him through Chriſt, the Confirming of his Covenant with him, and beſtowing the Grace of the Cove<g ref="char:EOLhyphen"/>nant upon him, <hi>&amp;c.</hi> Mean while the Pa<g ref="char:EOLhyphen"/>ſtor may put up ſuch Petitions for him in his Prayer, before the Celebration of this Ordinance.</p>
+               <epigraph>
+                  <q>
+                     <l>— <hi>Si quid noviſti rectius iſtis,</hi>
+                     </l>
+                     <l>
+                        <hi>Candidus imperti: Si non, His utere mecum.</hi>
+                     </l>
+                  </q>
+                  <q>
+                     <l>If thou know'ſt what doth more with Rule agree,</l>
+                     <l>Kindly impart it: Or uſe this with me.</l>
+                  </q>
+               </epigraph>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:133351:57"/>
+            <head>BOOKS Printed for <hi>Tho. Parkhurſt</hi> at the <hi>Bi<g ref="char:EOLhyphen"/>ble</hi> and <hi>Three Crowns</hi> in <hi>Cheapſide.</hi>
+            </head>
+            <p>A Treatiſe of the Inſtitution, right Admini<g ref="char:EOLhyphen"/>ſtration and receiving of the Sacrament of the Lord's upper, By Mr. <hi>Richard Vines.</hi>
+            </p>
+            <p>A True Touch-ſtone of Grace and Nature, or a Diſcourſe concerning Self-examination, with Medi<g ref="char:EOLhyphen"/>tations relating to the Lord's Supper. By Mr. <hi>N. Vincent,</hi> late Miniſter of the Goſpel.</p>
+            <p>A Communicant Inſtructed, or Practical Dire<g ref="char:EOLhyphen"/>ctions for worthy receiving of the Lord's Supper. By <hi>Fran. Roberts,</hi> M. A.</p>
+            <p>
+               <hi>Convivium Caeleſte,</hi> or a Diſcourſe concerning the Lord's Supper, ſhewing at once the Nature of that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>acrament, as alſo the right Way of preparing our ſelVes for the receiving of it, <hi>&amp;c.</hi> by the Right Re<g ref="char:EOLhyphen"/>verend Father in God, <hi>Richard</hi> Lord Biſhop of <hi>Bath</hi> and <hi>Wells.</hi>
+            </p>
+            <p>Sacramental Diſcourſes on ſeveral Texts before, and after the Lord's Supper. By <hi>John Shower.</hi>
+            </p>
+            <pb facs="tcp:133351:57"/>
+            <p>Sacramental Diſcourſes upon ſeveral Subjects, to which is added a Diſcourſe of the Life of Faith. By <hi>Christopher Amirant</hi> Miniſter of the Goſpel in <hi>Norfolk.</hi>
+            </p>
+            <p>The Welcome Communicant, or a Brief Diſ<g ref="char:EOLhyphen"/>courſe, directing the weakeſt Chriſtian (proceed<g ref="char:EOLhyphen"/>ing from Grace to Grace) how he may come with cheerfulneſs to the Lord's Table.</p>
+            <p>The Worthy Communicant, or a Treatiſe, ſhew<g ref="char:EOLhyphen"/>ing the due Order of receiving the Sacrament of the Lord's Supper. By <hi>Jeremiah Dyke.</hi>
+            </p>
+            <p>The Fountain of Life opened: Or a diſplay of Chriſt in his Eſſential and Mediatorial Glory, con<g ref="char:EOLhyphen"/>taining Forty Sermons on various Texts. 4<hi rend="sup">to.</hi>
+            </p>
+            <p>
+               <hi>Pneumatologia.</hi> Or a Treatiſe of the Soul of Man. 4<hi rend="sup">to.</hi> Both by Mr. <hi>John Flavel</hi> Late Miniſter in <hi>Dartmouth.</hi>
+            </p>
+            <p>Scripture-Light about the Goſpel-Ordinance of Baptiſm, in a Letter to ſome Scrupulous Friends.</p>
+            <p>A Treatiſe of the Lord's Sufferings. By <hi>Tho. Doolittle,</hi> M. A.</p>
+            <p>Monthly Preparations for the Holy Communi<g ref="char:EOLhyphen"/>on. By <hi>R. B.</hi> To which is added, ſuitable Medi<g ref="char:EOLhyphen"/>tations before, in, and after, Receiving; with Di<g ref="char:EOLhyphen"/>vine Hymns in Common Tunes.</p>
+            <p>A Treatiſe on the Sacrament. By <hi>Tho. Watſon.</hi>
+            </p>
+            <p>The Poor Mans Melp, and Young Man's Guide.</p>
+            <p>An Argumentative and Practical Diſcourſe of In<g ref="char:EOLhyphen"/>fant-Baptiſm. Theſe two by <hi>W. Burkitt</hi> Rector of <hi>Dedham</hi> in <hi>Eſſex.</hi>
+            </p>
+            <p>An Allarm to unconverted Sinners. By <hi>Joſ. Al<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>.</hi>
+            </p>
+            <p>Diſcourſes concerning the Rich Man and <hi>La<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arus.</hi> By <hi>Tim. Cruſo,</hi> Late Miniſter of the Goſpel <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>London.</hi>
+            </p>
+            <p>The Golden Snuffers, a Sermon Preached to the Society for Reformation of Manners. By <hi>Dan- <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urgeſs.</hi>
+            </p>
+            <pb facs="tcp:133351:58"/>
+            <p>Proofs of God's Being, and of the Scriptures Divine Original, with Twenty Directions for the profitable Reading of them. By <hi>D. Burgeſs.</hi>
+            </p>
+            <p>Holy Confidence well improved by <hi>Nehemiah</hi> and the <hi>Jews,</hi> whoſe Faith and Spirit were conſider'd and applied to the Societies for Reformation o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Manners: In a Sermon at <hi>Salters</hi> Hall in <hi>London. Aug.</hi> 16. 2697. By <hi>Mat. Sylveſter.</hi>
+            </p>
+            <p>A Looking-Glaſs for the Unmarried, wherein they may ſee theſe five Things, <hi>viz.</hi> (1.) Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Benefits, Helps, and Comforts of Marriage. (2.) How they may proceed regularly in Order to Marriage. (3.) How to make a Happy Choice. (4.) How to demean themſelves to each other in Order to Family Peace and Concord. (5.) The Relative Duty of Huſband and Wife.</p>
+            <p>The Righteouſneſs of God revealed in the Go<g ref="char:EOLhyphen"/>ſpel: Or an impartial Enquiry into the genuine Doctrine of St. <hi>Paul,</hi> in the great but much con<g ref="char:EOLhyphen"/>troverted Article of Juſtification; to which are prefixed the Epiſtles of the Right Reverend the Biſhops of <hi>Ely, Worceſter,</hi> and <hi>Cheſter.</hi> By Mr. <hi>John Humfrey.</hi>
+            </p>
+            <p>Mr. <hi>John Humfrey</hi>'s Friendly Interpoſer between the Authors of thoſe Papers, the one called. <hi>A Re<g ref="char:EOLhyphen"/>port;</hi> the other, <hi>A Rebuke of that Report,</hi> in Order to a ſound Reconciliation between the <hi>Presbyterian</hi> and the <hi>Independents</hi> in Doctrinals, by preparing a Third Way, when both of them are out in the<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> own Way.</p>
+            <p>The Swearers Doom, or a Diſcourſe againſt Vain<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Raſh Swearing. By <hi>John Rost,</hi> A. M. Recto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Offwel,</hi> and <hi>Gittiſham</hi> in <hi>Devon.</hi>
+            </p>
+            <p>A Body of Practical Divinity, containing a hun<g ref="char:EOLhyphen"/>dred ſeventy ſix Sermons upon the <hi>Aſſemblies</hi> ſhorte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Catechiſm. By <hi>Tho. Watſon.</hi> Folio.</p>
+            <p>An Account of the Life and Death of Mr. <hi>Phi<g ref="char:EOLhyphen"/>lip Henry</hi> Miniſter of the Goſpel near <hi>Whit-church</hi> in <hi>Shropſhire.</hi>
+            </p>
+            <pb facs="tcp:133351:58"/>
+         </div>
+      </back>
+   </text>
+</TEI>
